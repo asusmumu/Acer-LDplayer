@@ -1,0 +1,1808 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://logo.doube.eu.org/中天新聞.png" group-title="臺灣頻道",中天新聞
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv009
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞台" tvg-logo="https://logo.doube.eu.org/TVBS新聞.png" group-title="臺灣頻道",TVBS新聞台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv072
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞" tvg-logo="https://logo.doube.eu.org/東森新聞台.png" group-title="臺灣頻道",東森新聞
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv152
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://logo.doube.eu.org/民視新聞台.png" group-title="臺灣頻道",民視新聞台
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-ftv13
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡新聞" tvg-logo="https://logo.doube.eu.org/鏡電視新聞台.png" group-title="臺灣頻道",鏡新聞
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv075
+#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://logo.doube.eu.org/非凡新聞.png" group-title="臺灣頻道",非凡新聞
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv010
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞" tvg-logo="https://logo.doube.eu.org/台視新聞台.png" group-title="臺灣頻道",台視新聞
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv051
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://logo.doube.eu.org/華視新聞.png" group-title="臺灣頻道",華視新聞
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv052
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞" tvg-logo="https://logo.doube.eu.org/中視新聞台.png" group-title="臺灣頻道",中視新聞
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv074
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://logo.doube.eu.org/寰宇新聞台.png" group-title="臺灣頻道",寰宇新聞台
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn14
+#EXTINF:-1 tvg-id="寰宇新聞臺灣台" tvg-name="寰宇新聞臺灣台" tvg-logo="https://logo.doube.eu.org/寰宇新聞臺灣台.png" group-title="臺灣頻道",寰宇新聞臺灣台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv156
+#EXTINF:-1 tvg-id="半島國際新聞" tvg-name="半島新聞" tvg-logo="https://logo.doube.eu.org/半島國際新聞.png" group-title="臺灣頻道",半島新聞
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-ftv10
+#EXTINF:-1 tvg-id="美國之音" tvg-name="美國之音" tvg-logo="https://logo.doube.eu.org/美國之音.png" group-title="臺灣頻道",美國之音
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-ftv03
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞" tvg-logo="https://logo.doube.eu.org/東森財經新聞台.png" group-title="臺灣頻道",東森財經新聞
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv153
+#EXTINF:-1 tvg-id="非凡商業" tvg-name="非凡商業台" tvg-logo="https://logo.doube.eu.org/非凡商業.png" group-title="臺灣頻道",非凡商業台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv048
+#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經" tvg-logo="https://logo.doube.eu.org/台視財經台.png" group-title="臺灣頻道",台視財經
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv056
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://logo.doube.eu.org/第1商業台.png" group-title="臺灣頻道",第1商業台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv104
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://logo.doube.eu.org/TVBS.png" group-title="臺灣頻道",TVBS
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv073
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://logo.doube.eu.org/台視.png" group-title="臺灣頻道",台視
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv066
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://logo.doube.eu.org/中視.png" group-title="臺灣頻道",中視
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv040
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://logo.doube.eu.org/華視.png" group-title="臺灣頻道",華視
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv041
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://logo.doube.eu.org/民視.png" group-title="臺灣頻道",民視
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv002
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://logo.doube.eu.org/民視.png" group-title="臺灣頻道",民視
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv155
+#EXTINF:-1 tvg-id="民視臺灣台" tvg-name="民視臺灣台" tvg-logo="https://logo.doube.eu.org/民視臺灣台.png" group-title="臺灣頻道",民視臺灣台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv001
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://logo.doube.eu.org/民視第一台.png" group-title="臺灣頻道",民視第一台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv003
+#EXTINF:-1 tvg-id="中天亞洲" tvg-name="中天亞洲台" tvg-logo="https://logo.doube.eu.org/中天亞洲.png" group-title="臺灣頻道",中天亞洲台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv109
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://logo.doube.eu.org/靖天綜合台.png" group-title="臺灣頻道",靖天綜合台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv046
+#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://logo.doube.eu.org/靖天國際台.png" group-title="臺灣頻道",靖天國際台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv063
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://logo.doube.eu.org/靖天資訊台.png" group-title="臺灣頻道",靖天資訊台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv065
+#EXTINF:-1 tvg-id="客家電視臺" tvg-name="客家電視臺" tvg-logo="https://logo.doube.eu.org/客家電視臺.png" group-title="臺灣頻道",客家電視臺
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv043
+#EXTINF:-1 tvg-id="ARIRANG" tvg-name="阿裡郎" tvg-logo="https://logo.doube.eu.org/ARIRANG.png" group-title="臺灣頻道",阿裡郎
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv079
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://logo.doube.eu.org/國會頻道1.png" group-title="臺灣頻道",國會頻道1
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv084
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://logo.doube.eu.org/國會頻道2.png" group-title="臺灣頻道",國會頻道2
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv085
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://logo.doube.eu.org/TVBS歡樂台.png" group-title="臺灣頻道",TVBS歡樂台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv068
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://logo.doube.eu.org/TVBS精采台.png" group-title="臺灣頻道",TVBS精采台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv067
+#EXTINF:-1 tvg-id="ELTV娛樂" tvg-name="愛爾達娛樂" tvg-logo="https://logo.doube.eu.org/ELTV娛樂.png" group-title="臺灣頻道",愛爾達娛樂
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv070
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://logo.doube.eu.org/民視綜藝台.png" group-title="臺灣頻道",民視綜藝台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="八大綜藝" tvg-name="八大綜藝台" tvg-logo="https://logo.doube.eu.org/八大綜藝.png" group-title="臺灣頻道",八大綜藝台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv039
+#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩台" tvg-logo="https://logo.doube.eu.org/八大精彩.png" group-title="臺灣頻道",八大精彩台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv034
+#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://logo.doube.eu.org/靖天歡樂台.png" group-title="臺灣頻道",靖天歡樂台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv054
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://logo.doube.eu.org/靖天育樂台.png" group-title="臺灣頻道",靖天育樂台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv062
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://logo.doube.eu.org/中視菁采台.png" group-title="臺灣頻道",中視菁采台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv064
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://logo.doube.eu.org/豬哥亮歌廳秀.png" group-title="臺灣頻道",豬哥亮歌廳秀
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv006
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://logo.doube.eu.org/影迷數位電影台.png" group-title="臺灣頻道",影迷數位元電影台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv011
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://logo.doube.eu.org/amc電影台.png" group-title="臺灣頻道",amc電影台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv017
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://logo.doube.eu.org/靖天電影台.png" group-title="臺灣頻道",靖天電影台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv061
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://logo.doube.eu.org/靖天映畫.png" group-title="臺灣頻道",靖天映畫
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv055
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://logo.doube.eu.org/采昌影劇台.png" group-title="臺灣頻道",采昌影劇台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv049
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇" tvg-logo="https://logo.doube.eu.org/民視影劇台.png" group-title="臺灣頻道",民視影劇
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-ftv09
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影" tvg-logo="https://logo.doube.eu.org/龍華電影台.png" group-title="臺灣頻道",龍華電影
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn03
+#EXTINF:-1 tvg-id="龍華洋片台" tvg-name="龍華洋片" tvg-logo="https://logo.doube.eu.org/龍華洋片台.png" group-title="臺灣頻道",龍華洋片
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn02
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://logo.doube.eu.org/公視戲劇.png" group-title="臺灣頻道",公視戲劇
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv042
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://logo.doube.eu.org/靖洋戲劇台.png" group-title="臺灣頻道",靖洋戲劇台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv045
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://logo.doube.eu.org/靖天戲劇台.png" group-title="臺灣頻道",靖天戲劇台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv058
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://logo.doube.eu.org/中視經典台.png" group-title="臺灣頻道",中視經典台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv080
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://logo.doube.eu.org/靖天日本台.png" group-title="臺灣頻道",靖天日本台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv047
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇" tvg-logo="https://logo.doube.eu.org/龍華戲劇台.png" group-title="臺灣頻道",龍華戲劇
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn18
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓" tvg-logo="https://logo.doube.eu.org/龍華日韓台.png" group-title="臺灣頻道",龍華日韓
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn11
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像" tvg-logo="https://logo.doube.eu.org/龍華偶像台.png" group-title="臺灣頻道",龍華偶像
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn12
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典" tvg-logo="https://logo.doube.eu.org/龍華經典台.png" group-title="臺灣頻道",龍華經典
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn21
+#EXTINF:-1 tvg-id="臺灣戲劇台" tvg-name="臺灣戲劇台" tvg-logo="https://logo.doube.eu.org/臺灣戲劇台.png" group-title="臺灣頻道",臺灣戲劇台
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn22
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://logo.doube.eu.org/時尚運動X.png" group-title="臺灣頻道",時尚運動X
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv014
+#EXTINF:-1 tvg-id="GINXEsportsTV" tvg-name="GinxTV" tvg-logo="https://logo.doube.eu.org/GINXEsportsTV.png" group-title="臺灣頻道",GinxTV
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv053
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://logo.doube.eu.org/智林體育台.png" group-title="臺灣頻道",智林體育台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv101
+#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://logo.doube.eu.org/博斯魅力.png" group-title="臺灣頻道",博斯魅力
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn04
+#EXTINF:-1 tvg-id="博斯高球1" tvg-name="博斯高球1" tvg-logo="https://logo.doube.eu.org/博斯高球1.png" group-title="臺灣頻道",博斯高球1
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn05
+#EXTINF:-1 tvg-id="博斯高球2" tvg-name="博斯高球2" tvg-logo="https://logo.doube.eu.org/博斯高球2.png" group-title="臺灣頻道",博斯高球2
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn06
+#EXTINF:-1 tvg-id="博斯運動1" tvg-name="博斯運動1" tvg-logo="https://logo.doube.eu.org/博斯運動1.png" group-title="臺灣頻道",博斯運動1
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn07
+#EXTINF:-1 tvg-id="博斯運動2" tvg-name="博斯運動2" tvg-logo="https://logo.doube.eu.org/博斯運動2.png" group-title="臺灣頻道",博斯運動2
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn08
+#EXTINF:-1 tvg-id="博斯網球1" tvg-name="博斯網球" tvg-logo="https://logo.doube.eu.org/博斯網球1.png" group-title="臺灣頻道",博斯網球
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn09
+#EXTINF:-1 tvg-id="博斯無限1" tvg-name="博斯無限" tvg-logo="https://logo.doube.eu.org/博斯無限1.png" group-title="臺灣頻道",博斯無限
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn10
+#EXTINF:-1 tvg-id="博斯無限2" tvg-name="博斯無限2" tvg-logo="https://logo.doube.eu.org/博斯無限2.png" group-title="臺灣頻道",博斯無限2
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn13
+#EXTINF:-1 tvg-id="視納華仁紀實" tvg-name="視納華仁紀實" tvg-logo="https://logo.doube.eu.org/視納華仁紀實.png" group-title="臺灣頻道",視納華仁紀實
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv013
+#EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter" tvg-logo="https://logo.doube.eu.org/Globetrotter.png" group-title="臺灣頻道",Globetrotter
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv016
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://logo.doube.eu.org/達文西頻道.png" group-title="臺灣頻道",達文西頻道
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv018
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://logo.doube.eu.org/亞洲旅遊台.png" group-title="臺灣頻道",亞洲旅遊台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv076
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊" tvg-logo="https://logo.doube.eu.org/民視旅遊台.png" group-title="臺灣頻道",民視旅遊
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-ftv07
+#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://logo.doube.eu.org/Smart知識台.png" group-title="臺灣頻道",Smart知識台
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn19
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://logo.doube.eu.org/靖天卡通台.png" group-title="臺灣頻道",靖天卡通台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv044
+#EXTINF:-1 tvg-id="靖洋卡通台" tvg-name="靖洋卡通台" tvg-logo="https://logo.doube.eu.org/靖洋卡通台.png" group-title="臺灣頻道",靖洋卡通台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv057
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通" tvg-logo="https://logo.doube.eu.org/龍華卡通台.png" group-title="臺灣頻道",龍華卡通
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn01
+#EXTINF:-1 tvg-id="CLASSICA古典樂" tvg-name="古典音樂台" tvg-logo="https://logo.doube.eu.org/CLASSICA古典樂.png" group-title="臺灣頻道",古典音樂台
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv059
+#EXTINF:-1 tvg-id="TraceUrban" tvg-name="TRACE URBAN" tvg-logo="https://logo.doube.eu.org/TraceUrban.png" group-title="臺灣頻道",TRACE URBAN
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv082
+#EXTINF:-1 tvg-id="MezzoLiveHD" tvg-name="MEZZO LIVE" tvg-logo="https://logo.doube.eu.org/MezzoLiveHD.png" group-title="臺灣頻道",MEZZO LIVE
+http://99.iptv543.com/litv.php?token=leifeng&id=4gtv-4gtv083
+#EXTINF:-1 tvg-id="好消息1" tvg-name="好消息1" tvg-logo="https://logo.doube.eu.org/好消息1.png" group-title="臺灣頻道",好消息1
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-ftv16
+#EXTINF:-1 tvg-id="好消息2" tvg-name="好消息2" tvg-logo="https://logo.doube.eu.org/好消息2.png" group-title="臺灣頻道",好消息2
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-ftv17
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="生活英語台" tvg-logo="https://logo.doube.eu.org/ELTV生活英語台.png" group-title="臺灣頻道",生活英語台
+http://99.iptv543.com/litv.php?token=leifeng&id=litv-longturn20
+
+#EXTINF:-1 group-title="其他頻道" tvg-logo="",年代新聞
+http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 group-title="其他頻道" tvg-logo="",三立臺灣臺
+http://125.227.210.55:8160/VideoInput/play.ts
+
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="其他頻道" tvg-id="aktv/axn" provider-type="iptv",?? AXN
+https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
+
+#EXTINF:2 group-title="其他頻道" tvg-id="aktv/channel5hd" provider-type="iptv",?? Channel 5 HD
+https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+
+#EXTINF:3 group-title="其他頻道" tvg-id="aktv/channel8hd" provider-type="iptv",?? Channel 8 HD
+https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+
+#EXTINF:4 group-title="其他頻道" tvg-id="aktv/channeluhd" provider-type="iptv",?? Channel U HD
+https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+
+#EXTINF:5 group-title="其他頻道" tvg-id="aktv/mytvsuper18" provider-type="iptv",?? myTV SUPER 18台
+https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+
+#EXTINF:6 group-title="其他頻道" tvg-id="aktv/popc" provider-type="iptv",?? PopC
+https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+
+#EXTINF:7 group-title="其他頻道" tvg-id="aktv/rockaction" provider-type="iptv",?? ROCK Action
+https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+
+#EXTINF:8 group-title="其他頻道" tvg-id="aktv/tvbplus" provider-type="iptv",?? TVB Plus
+https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+
+#EXTINF:9 group-title="其他頻道" tvg-id="aktv/tvn" provider-type="iptv",?? tvN
+https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
+
+#EXTINF:10 group-title="其他頻道" tvg-id="aktv/CH-19" provider-type="iptv",?? 明珠劇集台(北美)
+https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+
+#EXTINF:11 group-title="其他頻道" tvg-id="aktv/CH-2" provider-type="iptv",?? 明珠台
+https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+
+#EXTINF:12 group-title="其他頻道" tvg-id="aktv/CH-1" provider-type="iptv",?? 無線新聞台
+https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+
+#EXTINF:13 group-title="其他頻道" tvg-id="aktv/hk" provider-type="iptv",?? 美亞電影台(HK)
+https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
+
+#EXTINF:14 group-title="其他頻道" tvg-id="aktv/CH-18" provider-type="iptv",?? 翡翠劇集台(北美)
+https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+
+#EXTINF:15 group-title="其他頻道" tvg-id="aktv/CH-0" provider-type="iptv",?? 翡翠台
+https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+
+#EXTINF:16 group-title="其他頻道" tvg-id="aktv/CH-17" provider-type="iptv",?? 翡翠綜合台(北美)
+https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+
+#EXTINF:17 group-title="其他頻道" tvg-id="aktv/CH-3" provider-type="iptv",?? 鳳凰衛視中文台
+https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+
+#EXTINF:18 group-title="其他頻道" tvg-id="aktv/CH-4" provider-type="iptv",?? 鳳凰衛視資訊台
+https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+
+#EXTINF:19 group-title="其他頻道" tvg-id="aktv/CH-5" provider-type="iptv",?? 鳳凰衛視香港台
+https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+
+#EXTINF:20 group-title="其他頻道" tvg-id="aktvjp/japannews24hlive" tvg-logo="" provider="AKTV-JP" provider-logo="" provider-type="iptv",?? Japan News 24H LIVE
+https://s1.m16tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+
+#EXTINF:21 group-title="其他頻道" tvg-id="aktvjp/ntv" tvg-logo="" provider="AKTV-JP" provider-logo="" provider-type="iptv",?? 日??NEWS LIVE
+https://s1.m16tv.cfd/aktvjp/ntv/AKTV.m3u8
+
+#EXTINF:22 group-title="其他頻道" tvg-id="aktv2/hbo" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",?? HBO
+https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
+
+#EXTINF:23 group-title="其他頻道" tvg-id="aktv2/iqiyi" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",?? IQIYI
+https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
+
+#EXTINF:24 group-title="其他頻道" tvg-id="aktv2/viutv" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",?? VIUTV
+https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8
+
+#EXTINF:25 group-title="其他頻道" tvg-id="aktv2/CH-2" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",?? 東森洋片
+https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
+
+#EXTINF:26 group-title="其他頻道" tvg-id="aktv2/CH-1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",?? 東森電影
+https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+
+#EXTINF:27 group-title="其他頻道" tvg-id="aktv2/CH-0" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",?? 緯來體育台
+https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+
+#EXTINF:28 group-title="其他頻道" tvg-id="aktv3/cna" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv",?? CNA
+https://s1.m16tv.cfd/aktv3/cna/AKTV.m3u8
+
+#EXTINF:29 group-title="其他頻道" tvg-id="aktv3/kpop" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv",?? KPOP+
+https://s1.m16tv.cfd/aktv3/kpop/AKTV.m3u8
+
+#EXTINF:30 group-title="其他頻道" tvg-id="aktv3/CH-0" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv",?? 朝鮮恩情台
+https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
+
+#EXTINF:31 group-title="其他頻道" tvg-id="taiwan/CH-0" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",?? 民視第一台
+https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
+
+#EXTINF:32 group-title="其他頻道" tvg-id="tvbs/tvbs" tvg-logo="" provider="TVBS" provider-logo="" provider-type="iptv",?? TVBS新聞
+https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+
+#EXTINF:33 group-title="其他頻道" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",?? 中天新聞台
+https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
+
+#EXTINF:34 group-title="其他頻道" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",?? 東森新聞
+https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
+
+
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.iill.top/epg"
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
+http://99.iptv543.com:50007/4gtv-4gtv003/index.m3u8
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
+http://99.iptv543.com:50007/4gtv-4gtv001/index.m3u8
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" group-title="綜合其他",民視HD
+http://99.iptv543.com:50007/4gtv-4gtv002/index.m3u8
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai1.png" group-title="綜合其他",大愛電視
+http://99.iptv543.com:50007/4gtv-live007/index.m3u8
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
+http://99.iptv543.com:50007/4gtv-4gtv040/index.m3u8
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="電影戲劇",中視經典台
+http://99.iptv543.com:50007/4gtv-4gtv080/index.m3u8
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
+http://99.iptv543.com:50007/4gtv-4gtv041/index.m3u8
+#EXTINF:-1 tvg-id="三立綜合台HD" tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合合
+http://99.iptv543.com:50007/4gtv-live207/index.m3u8
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="綜合其他",客家電視
+http://99.iptv543.com:50007/4gtv-4gtv043/index.m3u8
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="音樂綜藝",八大綜藝
+http://99.iptv543.com:50007/4gtv-4gtv039/index.m3u8
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="綜合其他",中視菁采台
+http://99.iptv543.com:50007/4gtv-4gtv064/index.m3u8
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="音樂綜藝",TVBS精采台
+http://99.iptv543.com:50007/4gtv-4gtv067/index.m3u8
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝",ELTA娛樂
+http://99.iptv543.com:50007/4gtv-4gtv070/index.m3u8
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="綜合其他",靖天綜合
+http://99.iptv543.com:50007/4gtv-4gtv046/index.m3u8
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="綜合其他",靖天日本
+http://99.iptv543.com:50007/4gtv-4gtv047/index.m3u8
+#EXTINF:-1 tvg-id="新唐人亞太台" tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NTD.png" group-title="綜合其他",新唐人亞太台
+http://99.iptv543.com:50007/4gtv-live050/index.m3u8
+#EXTINF:-1 tvg-id="ARIRANG阿裡郎頻道" tvg-name="ARIRANG阿裡郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="綜合其他",Arirang TV
+http://99.iptv543.com:50007/4gtv-4gtv079/index.m3u8
+#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="生活旅遊",Global Trekker
+http://99.iptv543.com:50007/4gtv-live112/index.m3u8
+#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TITV.png" group-title="綜合其他",原住民族電視台
+http://99.iptv543.com:50007/4gtv-live014/index.m3u8
+#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物四台
+http://99.iptv543.com:50007/4gtv-live049/index.m3u8
+#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/liveabc.png" group-title="兒童卡通",LiveABC 互動英語台
+http://99.iptv543.com:50007/4gtv-live030/index.m3u8
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="兒童卡通",達文西
+http://99.iptv543.com:50007/4gtv-4gtv018/index.m3u8
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
+http://99.iptv543.com:50007/litv-longturn20/index.m3u8
+#EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickjr.png" group-title="兒童卡通",Nick Jr.
+http://99.iptv543.com:50007/4gtv-live032/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nickelodeon.png" group-title="兒童卡通",Nickelodeon
+http://99.iptv543.com:50007/4gtv-live105/index.m3u8
+#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DreamWorks.png" group-title="兒童卡通",DreamWorks
+http://99.iptv543.com:50007/4gtv-live017/index.m3u8
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通",靖天卡通台
+http://99.iptv543.com:50007/4gtv-4gtv044/index.m3u8
+#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通",靖洋卡通
+http://99.iptv543.com:50007/4gtv-4gtv057/index.m3u8
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/momo1.png" group-title="兒童卡通",MOMO親子
+http://99.iptv543.com:50007/4gtv-live107/index.m3u8
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
+http://99.iptv543.com:50007/4gtv-live047/index.m3u8
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
+http://99.iptv543.com:50007/4gtv-4gtv102/index.m3u8
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物一台
+http://99.iptv543.com:50007/of-4gtv-4gtv102/index.m3u8
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
+http://99.iptv543.com:50007/4gtv-4gtv075/index.m3u8
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
+http://99.iptv543.com:50007/4gtv-4gtv152/index.m3u8
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS1.png" group-title="新聞財經",華視新聞台
+http://99.iptv543.com:50007/4gtv-4gtv052/index.m3u8
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
+http://99.iptv543.com:50007/litv-ftv13/index.m3u8
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
+http://99.iptv543.com:50007/4gtv-live089/index.m3u8
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
+http://99.iptv543.com:50007/4gtv-4gtv153/index.m3u8
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
+http://99.iptv543.com:50007/4gtv-4gtv074/index.m3u8
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
+http://99.iptv543.com:50007/4gtv-4gtv009/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BloombergTV.png" group-title="新聞財經",BLOOMBERG TV
+http://99.iptv543.com:50007/4gtv-live059/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
+http://99.iptv543.com:50007/litv-longturn14/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
+http://99.iptv543.com:50007/4gtv-4gtv156/index.m3u8
+#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SBNcaijing.png" group-title="新聞財經",SBN 全球財經台
+http://99.iptv543.com:50007/4gtv-live060/index.m3u8
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
+http://99.iptv543.com:50007/4gtv-4gtv158/index.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
+http://99.iptv543.com:50007/4gtv-4gtv073/index.m3u8
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
+http://99.iptv543.com:50007/4gtv-live046/index.m3u8
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
+http://99.iptv543.com:50007/4gtv-4gtv103/index.m3u8
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物二台
+http://99.iptv543.com:50007/of-4gtv-4gtv103/index.m3u8
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝",民視綜藝
+http://99.iptv543.com:50007/4gtv-4gtv004/index.m3u8
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝",豬哥亮歌廳秀
+http://99.iptv543.com:50007/4gtv-4gtv006/index.m3u8
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="綜合其他",靖天育樂
+http://99.iptv543.com:50007/4gtv-4gtv062/index.m3u8
+#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="綜合其他",靖天國際
+http://99.iptv543.com:50007/4gtv-4gtv063/index.m3u8
+#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="綜合其他",靖天歡樂
+http://99.iptv543.com:50007/4gtv-4gtv054/index.m3u8
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="綜合其他",靖天資訊
+http://99.iptv543.com:50007/4gtv-4gtv065/index.m3u8
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS歡樂台
+http://99.iptv543.com:50007/4gtv-4gtv068/index.m3u8
+#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="綜合其他",韓國娛樂台
+http://99.iptv543.com:50007/4gtv-4gtv016/index.m3u8
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ROCKEntertainment.png" group-title="電影戲劇",ROCK Entertainment
+http://99.iptv543.com:50007/4gtv-live080/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="生活旅遊", Lifetime
+http://99.iptv543.com:50007/4gtv-live029/index.m3u8
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="音樂綜藝",電影原聲台 CMusic
+http://99.iptv543.com:50007/4gtv-live031/index.m3u8
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝",Trace Urban
+http://99.iptv543.com:50007/4gtv-4gtv082/index.m3u8
+#EXTINF:-1 tvg-id="MTV Live HD 音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MTVLive.png" group-title="音樂綜藝",MTV Live
+http://99.iptv543.com:50007/4gtv-live025/index.m3u8
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝",MEZZO LIVE HD
+http://99.iptv543.com:50007/4gtv-4gtv083/index.m3u8
+#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝",CLASSICA 古典樂
+http://99.iptv543.com:50007/4gtv-4gtv059/index.m3u8
+#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他",東森購物三台
+http://99.iptv543.com:50007/4gtv-live048/index.m3u8
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png" group-title="生活旅遊",INULTRA
+http://99.iptv543.com:50007/4gtv-live096/index.m3u8
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="體育競技",TRACE Sport Stars
+http://99.iptv543.com:50007/4gtv-4gtv077/index.m3u8
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="體育競技",智林體育
+http://99.iptv543.com:50007/4gtv-4gtv101/index.m3u8
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育競技",時尚運動X
+http://99.iptv543.com:50007/4gtv-4gtv014/index.m3u8
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="體育競技",車迷 TV
+http://99.iptv543.com:50007/4gtv-live201/index.m3u8
+#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="體育競技", GINX Esports TV
+http://99.iptv543.com:50007/4gtv-4gtv053/index.m3u8
+#EXTINF:-1 tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PetClubTV.png" group-title="生活旅遊",Pet Club TV
+http://99.iptv543.com:50007/4gtv-live110/index.m3u8
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊",民視旅遊
+http://99.iptv543.com:50007/litv-ftv07/index.m3u8
+#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="生活旅遊",滾動力 Rollor
+http://99.iptv543.com:50007/4gtv-live012/index.m3u8
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
+http://99.iptv543.com:50007/4gtv-4gtv076/index.m3u8
+#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="生活旅遊",FUN 4K探索娛樂
+http://99.iptv543.com:50007/4gtv-live011/index.m3u8
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Gorgeous.png" group-title="生活旅遊",幸福空間居家台
+http://99.iptv543.com:50007/4gtv-live206/index.m3u8
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LoveNarure4K.png" group-title="生活旅遊",LOVE NATURE
+http://99.iptv543.com:50007/4gtv-live208/index.m3u8
+#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/History1.png" group-title="紀實探索",歷史頻道
+http://99.iptv543.com:50007/4gtv-live026/index.m3u8
+#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/myhomebox/tv@main/img/ELTA8.png" group-title="生活旅遊",ELTA生活旅遊
+http://99.iptv543.com:50007/4gtv-live120/index.m3u8
+#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LuxeTV.png" group-title="生活旅遊",LUXE TV
+http://99.iptv543.com:50007/4gtv-live121/index.m3u8
+#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TV5MondeStyle.png" group-title="生活旅遊",TV5MONDE Style
+http://99.iptv543.com:50007/4gtv-live122/index.m3u8
+#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="生活旅遊",MagellanTV頻道
+http://99.iptv543.com:50007/4gtv-live123/index.m3u8
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="電影戲劇",公視戲劇
+http://99.iptv543.com:50007/4gtv-4gtv042/index.m3u8
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="電影戲劇",民視影劇
+http://99.iptv543.com:50007/litv-ftv09/index.m3u8
+#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/HITS.png" group-title="電影戲劇",HITS
+http://99.iptv543.com:50007/4gtv-live620/index.m3u8
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝",八大精彩
+http://99.iptv543.com:50007/4gtv-4gtv034/index.m3u8
+#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="電影戲劇",霹靂布袋戲
+http://99.iptv543.com:50007/4gtv-live145/index.m3u8
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="電影戲劇",靖天戲劇
+http://99.iptv543.com:50007/4gtv-4gtv058/index.m3u8
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="電影戲劇",靖洋戲劇
+http://99.iptv543.com:50007/4gtv-4gtv045/index.m3u8
+#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Crimeplus.png" group-title="紀實探索",CI 罪案偵查頻道
+http://99.iptv543.com:50007/4gtv-live027/index.m3u8
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="紀實探索",視納華仁紀實頻道
+http://99.iptv543.com:50007/4gtv-4gtv013/index.m3u8
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="紀實探索",影迷數位紀實台
+http://99.iptv543.com:50007/litv-ftv15/index.m3u8
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live144_pc.png" group-title="電影戲劇",金光布袋戲
+http://99.iptv543.com:50007/4gtv-live144/index.m3u8
+#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="電影戲劇",ROCK Action
+http://99.iptv543.com:50007/4gtv-live138/index.m3u8
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="電影戲劇",采昌影劇
+http://99.iptv543.com:50007/4gtv-4gtv049/index.m3u8
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="電影戲劇",靖天映畫
+http://99.iptv543.com:50007/4gtv-4gtv055/index.m3u8
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="電影戲劇",靖天電影
+http://99.iptv543.com:50007/4gtv-4gtv061/index.m3u8
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="電影戲劇",影迷數位電影台
+http://99.iptv543.com:50007/4gtv-4gtv011/index.m3u8
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="電影戲劇",amc 電影台
+http://99.iptv543.com:50007/4gtv-4gtv017/index.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CinemaWorld.png" group-title="電影戲劇",Cinema World
+http://99.iptv543.com:50007/4gtv-live069/index.m3u8
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/MyCinema.png" group-title="電影戲劇",歐洲光影
+http://99.iptv543.com:50007/4gtv-live157/index.m3u8
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
+http://99.iptv543.com:50007/litv-ftv16/index.m3u8
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
+http://99.iptv543.com:50007/litv-ftv17/index.m3u8
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Daai2.png" group-title="綜合其他",大愛二台
+http://99.iptv543.com:50007/4gtv-live106/index.m3u8
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/BLTV.png" group-title="綜合其他",人間衛視
+http://99.iptv543.com:50007/4gtv-live008/index.m3u8
+#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/France24.png" group-title="新聞財經",FRANCE24 英文台
+http://99.iptv543.com:50007/4gtv-live146/index.m3u8
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="新聞財經",半島國際新聞台
+http://99.iptv543.com:50007/litv-ftv10/index.m3u8
+#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="新聞財經",VOA 美國之音
+http://99.iptv543.com:50007/litv-ftv03/index.m3u8
+#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CNBCAsia.png" group-title="新聞財經",CNBC Asia 財經台
+http://99.iptv543.com:50007/4gtv-live130/index.m3u8
+#EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DWChannel.png" group-title="新聞財經",DW德國之聲
+http://99.iptv543.com:50007/4gtv-live071/index.m3u8
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
+http://99.iptv543.com:50007/4gtv-4gtv084/index.m3u8
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2
+http://99.iptv543.com:50007/4gtv-4gtv085/index.m3u8
+#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS綜藝台
+http://99.iptv543.com:50007/4gtv-live087/index.m3u8
+#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="電影戲劇",TVBS台劇台
+http://99.iptv543.com:50007/4gtv-live088/index.m3u8
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live021_pc.png" group-title="電影戲劇",經典電影台
+http://99.iptv543.com:50007/4gtv-live021/index.m3u8
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live022_pc.png" group-title="兒童卡通",經典卡通台
+http://99.iptv543.com:50007/4gtv-live022/index.m3u8
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live024_pc.png" group-title="兒童卡通",精選動漫台
+http://99.iptv543.com:50007/4gtv-live024/index.m3u8
+#EXTINF:-1 tvg-id="戲劇免費看 1台" tvg-name="戲劇免費看 1台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_4gtv_4gtv-live010_pc.png" group-title="電影戲劇",戲劇免費看1台
+http://99.iptv543.com:50007/4gtv-live010/index.m3u8
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他",民視第一台
+http://99.iptv543.com:50007/li-4gtv-4gtv003/index.m3u8
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV3.png" group-title="綜合其他",民視台灣台
+http://99.iptv543.com:50007/li-4gtv-4gtv001/index.m3u8
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
+http://99.iptv543.com:50007/li-4gtv-4gtv040/index.m3u8
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV2.png" group-title="電影戲劇",中視經典台
+http://99.iptv543.com:50007/li-4gtv-4gtv080/index.m3u8
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
+http://99.iptv543.com:50007/li-4gtv-4gtv041/index.m3u8
+#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="電影戲劇",龍華洋片
+http://99.iptv543.com:50007/li-litv-longturn02/index.m3u8
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通",龍華卡通
+http://99.iptv543.com:50007/li-litv-longturn01/index.m3u8
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="電影戲劇",龍華電影
+http://99.iptv543.com:50007/li-litv-longturn03/index.m3u8
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="電影戲劇",龍華日韓
+http://99.iptv543.com:50007/li-litv-longturn11/index.m3u8
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="電影戲劇",龍華偶像
+http://99.iptv543.com:50007/li-litv-longturn12/index.m3u8
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
+http://99.iptv543.com:50007/li-litv-longturn18/index.m3u8
+#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
+http://99.iptv543.com:50007/li-litv-longturn21/index.m3u8
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast6.png" group-title="體育競技",博斯魅力
+http://99.iptv543.com:50007/litv-longturn04/index.m3u8
+#EXTINF:-1 tvg-id="博斯高球臺" tvg-name="博斯高球臺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast3.png" group-title="體育競技",博斯高球I
+http://99.iptv543.com:50007/litv-longturn05/index.m3u8
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast4.png" group-title="體育競技",博斯高球II
+http://99.iptv543.com:50007/litv-longturn06/index.m3u8
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast1.png" group-title="體育競技",博斯運動I
+http://99.iptv543.com:50007/litv-longturn07/index.m3u8
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast2.png" group-title="體育競技",博斯運動II
+http://99.iptv543.com:50007/litv-longturn08/index.m3u8
+#EXTINF:-1 tvg-id="博斯網球臺" tvg-name="博斯網球臺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast5.png" group-title="體育競技",博斯網球
+http://99.iptv543.com:50007/litv-longturn09/index.m3u8
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast7.png" group-title="體育競技",博斯無限I
+http://99.iptv543.com:50007/litv-longturn10/index.m3u8
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/sportcast8.png" group-title="體育競技",博斯無限II
+http://99.iptv543.com:50007/litv-longturn13/index.m3u8
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique1.png"" group-title="新聞財經",非凡新聞
+http://99.iptv543.com:50007/4gtv-4gtv010/index.m3u8
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Unique2.png"" group-title="新聞財經",非凡商業
+http://99.iptv543.com:50007/4gtv-4gtv048/index.m3u8
+#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV3.png" group-title="新聞財經",台視財經台
+http://99.iptv543.com:50007/4gtv-4gtv056/index.m3u8
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI4.png" group-title="綜合其他",中天亞洲台
+http://99.iptv543.com:50007/4gtv-4gtv109/index.m3u8
+#EXTINF:-1 tvg-id="三立綜合台HD" tvg-name="三立綜合台HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET1.png" group-title="綜合其他",三立綜合合
+http://99.iptv543.com:50007/4gtv-live207/index.m3u8
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hakka.png" group-title="綜合其他",客家電視
+http://99.iptv543.com:50007/4gtv-4gtv043/index.m3u8
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="音樂綜藝",八大綜藝
+http://99.iptv543.com:50007/li-4gtv-4gtv039/index.m3u8
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV3.png" group-title="綜合其他",中視菁采台
+http://99.iptv543.com:50007/li-4gtv-4gtv064/index.m3u8
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="音樂綜藝",TVBS精采台
+http://99.iptv543.com:50007/li-4gtv-4gtv067/index.m3u8
+#EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA3.png" group-title="音樂綜藝",ELTA娛樂
+http://99.iptv543.com:50007/li-4gtv-4gtv070/index.m3u8
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="綜合其他",靖天綜合
+http://99.iptv543.com:50007/4gtv-4gtv046/index.m3u8
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="綜合其他",靖天日本
+http://99.iptv543.com:50007/li-4gtv-4gtv047/index.m3u8
+#EXTINF:-1 tvg-id="ARIRANG阿裡郎頻道" tvg-name="ARIRANG阿裡郎頻道" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="綜合其他",Arirang TV
+http://99.iptv543.com:50007/li-4gtv-4gtv079/index.m3u8
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/DaVinci.png" group-title="兒童卡通",達文西
+http://99.iptv543.com:50007/li-4gtv-4gtv018/index.m3u8
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
+http://99.iptv543.com:50007/li-litv-longturn20/index.m3u8
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV7.png" group-title="兒童卡通",靖天卡通台
+http://99.iptv543.com:50007/li-4gtv-4gtv044/index.m3u8
+#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy1.png" group-title="兒童卡通",靖洋卡通
+http://99.iptv543.com:50007/li-4gtv-4gtv057/index.m3u8
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Mnews.png" group-title="新聞財經",鏡電視新聞台
+http://99.iptv543.com:50007/li-4gtv-4gtv075/index.m3u8
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台"tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" group-title="新聞財經",東森新聞
+http://99.iptv543.com:50007/li-4gtv-4gtv152/index.m3u8
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" group-title="新聞財經",民視新聞
+http://99.iptv543.com:50007/li-litv-ftv13/index.m3u8
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" group-title="新聞財經",TVBS新聞台
+http://99.iptv543.com:50007/li-4gtv-4gtv072/index.m3u8
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" group-title="新聞財經",東森財經新聞
+http://99.iptv543.com:50007/li-4gtv-4gtv153/index.m3u8
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
+http://99.iptv543.com:50007/4gtv-4gtv074/index.m3u8
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
+http://99.iptv543.com:50007/li-4gtv-4gtv009/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
+http://99.iptv543.com:50007/li-litv-longturn14/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
+http://99.iptv543.com:50007/li-4gtv-4gtv156/index.m3u8
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
+http://99.iptv543.com:50007/li-4gtv-4gtv158/index.m3u8
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS.png" group-title="綜合其他",TVBS HD
+http://99.iptv543.com:50007/li-4gtv-4gtv073/index.m3u8
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV6.png" group-title="音樂綜藝",民視綜藝
+http://99.iptv543.com:50007/li-4gtv-4gtv004/index.m3u8
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV7.png" group-title="音樂綜藝",豬哥亮歌廳秀
+http://99.iptv543.com:50007/li-4gtv-4gtv006/index.m3u8
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV5.png" group-title="綜合其他",靖天育樂
+http://99.iptv543.com:50007/li-4gtv-4gtv062/index.m3u8
+#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV10.png" group-title="綜合其他",靖天國際
+http://99.iptv543.com:50007/li-4gtv-4gtv063/index.m3u8
+#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://epg.pw/media/images/epg/2024/06/12/20240612111031068542_59.png" group-title="綜合其他",靖天歡樂
+http://99.iptv543.com:50007/li-4gtv-4gtv054/index.m3u8
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV2.png" group-title="綜合其他",靖天資訊
+http://99.iptv543.com:50007/li-4gtv-4gtv065/index.m3u8
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS2.png" group-title="音樂綜藝",TVBS歡樂台
+http://99.iptv543.com:50007/li-4gtv-4gtv068/index.m3u8
+#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hanguoyl.png" group-title="綜合其他",韓國娛樂台
+http://99.iptv543.com:50007/li-4gtv-4gtv016/index.m3u8
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceUrban.png" group-title="音樂綜藝",Trace Urban
+http://99.iptv543.com:50007/li-4gtv-4gtv082/index.m3u8
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/mezzolive.png" group-title="音樂綜藝",MEZZO LIVE HD
+http://99.iptv543.com:50007/li-4gtv-4gtv083/index.m3u8
+#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/classical.png" group-title="音樂綜藝",CLASSICA 古典樂
+http://99.iptv543.com:50007/li-4gtv-4gtv059/index.m3u8
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="體育競技",TRACE Sport Stars
+http://99.iptv543.com:50007/li-4gtv-4gtv077/index.m3u8
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="體育競技",智林體育
+http://99.iptv543.com:50007/li-4gtv-4gtv101/index.m3u8
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育競技",時尚運動X
+http://99.iptv543.com:50007/li-4gtv-4gtv014/index.m3u8
+#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="Ginx TV 電競頻道" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="體育競技", GINX Esports TV
+http://99.iptv543.com:50007/li-4gtv-4gtv053/index.m3u8
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊",民視旅遊
+http://99.iptv543.com:50007/li-litv-ftv07/index.m3u8
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
+http://99.iptv543.com:50007/li-4gtv-4gtv076/index.m3u8
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="電影戲劇",公視戲劇
+http://99.iptv543.com:50007/li-4gtv-4gtv042/index.m3u8
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="電影戲劇",民視影劇
+http://99.iptv543.com:50007/li-litv-ftv09/index.m3u8
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GTV5.png" group-title="音樂綜藝",八大精彩
+http://99.iptv543.com:50007/li-4gtv-4gtv034/index.m3u8
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV8.png" group-title="電影戲劇",靖天戲劇
+http://99.iptv543.com:50007/li-4gtv-4gtv058/index.m3u8
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jy2.png" group-title="電影戲劇",靖洋戲劇
+http://99.iptv543.com:50007/li-4gtv-4gtv045/index.m3u8
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/cnex.png" group-title="紀實探索",視納華仁紀實頻道
+http://99.iptv543.com:50007/li-4gtv-4gtv013/index.m3u8
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS2.png" group-title="紀實探索",影迷數位紀實台
+http://99.iptv543.com:50007/li-litv-ftv15/index.m3u8
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/caichang.png" group-title="電影戲劇",采昌影劇
+http://99.iptv543.com:50007/li-4gtv-4gtv049/index.m3u8
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV3.png" group-title="電影戲劇",靖天映畫
+http://99.iptv543.com:50007/li-4gtv-4gtv055/index.m3u8
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV9.png" group-title="電影戲劇",靖天電影
+http://99.iptv543.com:50007/li-4gtv-4gtv061/index.m3u8
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FANS1.png" group-title="電影戲劇",影迷數位電影台
+http://99.iptv543.com:50007/li-4gtv-4gtv011/index.m3u8
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AMCMovies.png" group-title="電影戲劇",amc 電影台
+http://99.iptv543.com:50007/li-4gtv-4gtv017/index.m3u8
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
+http://99.iptv543.com:50007/li-litv-ftv16/index.m3u8
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
+http://99.iptv543.com:50007/li-litv-ftv17/index.m3u8
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/AlJazeera.png" group-title="新聞財經",半島國際新聞台
+http://99.iptv543.com:50007/li-litv-ftv10/index.m3u8
+#EXTINF:-1 tvg-id="VOA美國之音" tvg-name="VOA美國之音" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/VOATV.png" group-title="新聞財經",VOA 美國之音
+http://99.iptv543.com:50007/li-litv-ftv03/index.m3u8
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
+http://99.iptv543.com:50007/li-4gtv-4gtv084/index.m3u8
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2
+http://99.iptv543.com:50007/li-4gtv-4gtv085/index.m3u8
+#EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="電影戲劇",台灣戲劇台
+http://99.iptv543.com:50007/li-litv-longturn22/index.m3u8
+#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊",Smart知識台
+http://99.iptv543.com:50007/li-litv-longturn19/index.m3u8
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經",台視新聞台
+http://99.iptv543.com:50007/li-4gtv-4gtv051/index.m3u8
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
+http://99.iptv543.com:50007/li-4gtv-4gtv066/index.m3u8
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="新聞財經",第1商業台
+http://99.iptv543.com:50007/li-4gtv-4gtv104/index.m3u8
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png" group-title="新聞財經",台視新聞台
+http://99.iptv543.com:50007/4gtv-4gtv051/index.m3u8
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV.png" group-title="綜合其他",台視HD
+http://99.iptv543.com:50007/4gtv-4gtv066/index.m3u8
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV.png" group-title="綜合其他",中視
+http://99.iptv543.com:50007/of-4gtv-4gtv040/index.m3u8
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTV1.png" group-title="新聞財經",中視新聞台
+http://99.iptv543.com:50007/of-4gtv-4gtv074/index.m3u8
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTS.png" group-title="綜合其他",華視
+http://99.iptv543.com:50007/of-4gtv-4gtv041/index.m3u8
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CTI2.png"" group-title="新聞財經",中天新聞台
+http://99.iptv543.com:50007/of-4gtv-4gtv009/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global2.png" group-title="新聞財經",寰宇新聞
+http://99.iptv543.com:50007/of-litv-longturn14/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global3.png" group-title="新聞財經",寰宇新聞台灣台
+http://99.iptv543.com:50007/of-4gtv-4gtv156/index.m3u8
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Global4.png" group-title="新聞財經",寰宇財經
+http://99.iptv543.com:50007/of-4gtv-4gtv158/index.m3u8
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Asiatravel.png" group-title="生活旅遊",亞洲旅遊
+http://99.iptv543.com:50007/of-4gtv-4gtv076/index.m3u8
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV1.png" group-title="綜合其他",好消息
+http://99.iptv543.com:50007/of-litv-ftv16/index.m3u8
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoodTV2.png" group-title="綜合其他",好消息2台
+http://99.iptv543.com:50007/of-litv-ftv17/index.m3u8
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui1.png" group-title="綜合其他",國會頻道1
+http://99.iptv543.com:50007/of-4gtv-4gtv084/index.m3u8
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/guohui2.png" group-title="綜合其他",國會頻道2
+http://99.iptv543.com:50007/of-4gtv-4gtv085/index.m3u8
+#EXTINF:-1 tvg-id="台灣戲劇HD" tvg-name="台灣戲劇HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Taiwanxiju.png" group-title="電影戲劇",台灣戲劇台
+http://99.iptv543.com:50007/litv-longturn22/index.m3u8
+#EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/smarttv.png" group-title="生活旅遊",Smart知識台
+http://99.iptv543.com:50007/litv-longturn19/index.m3u8
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_pc.png" group-title="新聞財經",第1商業台
+http://99.iptv543.com:50007/4gtv-4gtv104/index.m3u8
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" group-title="新聞財經",三立iNEWS
+http://99.iptv543.com:50007/iNEWS/index.m3u8
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ELTA7.png" group-title="兒童卡通",ELTV生活英語台
+http://99.iptv543.com:50007/of-litv-longturn20/index.m3u8
+#EXTINF:-1 tvg-id="龍華洋片HD" tvg-name="龍華洋片HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV2.png" group-title="電影戲劇",龍華洋片
+http://99.iptv543.com:50007/litv-longturn02/index.m3u8
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV9.png" group-title="兒童卡通",龍華卡通
+http://99.iptv543.com:50007/litv-longturn01/index.m3u8
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV1.png" group-title="電影戲劇",龍華電影
+http://99.iptv543.com:50007/litv-longturn03/index.m3u8
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV5.png" group-title="電影戲劇",龍華日韓
+http://99.iptv543.com:50007/litv-longturn11/index.m3u8
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV6.png" group-title="電影戲劇",龍華偶像
+http://99.iptv543.com:50007/litv-longturn12/index.m3u8
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV4.png" group-title="電影戲劇",龍華戲劇
+http://99.iptv543.com:50007/litv-longturn18/index.m3u8
+#EXTINF:-1 tvg-id="龍華經典HD" tvg-name="龍華經典HD" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LTV7.png" group-title="電影戲劇",龍華經典
+http://99.iptv543.com:50007/litv-longturn21/index.m3u8
+#EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍播新聞
+http://99.iptv543.com:50007/nnews-zh/index.m3u8
+#EXTINF:-1 tvg-id="倪珍英語新聞" tvg-name="倪珍英語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍英語新聞
+http://99.iptv543.com:50007/nnews-en/index.m3u8
+#EXTINF:-1 tvg-id="倪珍越語新聞" tvg-name="倪珍越語新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經",倪珍越語新聞
+http://99.iptv543.com:50007/nnews-vn/index.m3u8
+
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+
+#EXTINF:-1 tvg-name="中國|湖南衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|湖南衛視.png" group-title="smt中國",中國|湖南衛視
+http://99.iptv543.com/smt.php?id=hunan_twn
+#EXTINF:-1 tvg-name="中國|浙江衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|浙江衛視.png" group-title="smt中國",中國|浙江衛視
+http://99.iptv543.com/smt.php?id=zhejiang_twn
+#EXTINF:-1 tvg-name="中國|江蘇衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|江蘇衛視.png" group-title="smt中國",中國|江蘇衛視
+http://99.iptv543.com/smt.php?id=jiangsu_twn
+#EXTINF:-1 tvg-name="中國|東方衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|東方衛視.png" group-title="smt中國",中國|東方衛視
+http://99.iptv543.com/smt.php?id=dongfangweishi_twn
+#EXTINF:-1 tvg-name="中國|北京衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|北京衛視.png" group-title="smt中國",中國|北京衛視
+http://99.iptv543.com/smt.php?id=beijing
+#EXTINF:-1 tvg-name="中國|深圳衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|深圳衛視.png" group-title="smt中國",中國|深圳衛視
+http://99.iptv543.com/smt.php?id=shenzhen
+#EXTINF:-1 tvg-name="中國|廣東衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|廣東衛視.png" group-title="smt中國",中國|廣東衛視
+http://99.iptv543.com/smt.php?id=guangdongweishi_twn
+#EXTINF:-1 tvg-name="中國|大灣區衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|大灣區衛視.png" group-title="smt中國",中國|大灣區衛視
+http://99.iptv543.com/smt.php?id=nanfang_twn
+#EXTINF:-1 tvg-name="中國|珠江台" tvg-logo="https://live.fanmingming.cn/tv/中國|珠江台.png" group-title="smt中國",中國|珠江台
+http://99.iptv543.com/smt.php?id=zhujiang
+#EXTINF:-1 tvg-name="中國|東南衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|東南衛視.png" group-title="smt中國",中國|東南衛視
+http://99.iptv543.com/smt.php?id=fujian
+#EXTINF:-1 tvg-name="中國|廣西衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|廣西衛視.png" group-title="smt中國",中國|廣西衛視
+http://99.iptv543.com/smt.php?id=guangxi
+#EXTINF:-1 tvg-name="中國|湖北衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|湖北衛視.png" group-title="smt中國",中國|湖北衛視
+http://99.iptv543.com/smt.php?id=hubei
+#EXTINF:-1 tvg-name="中國|四川衛視" tvg-logo="https://live.fanmingming.cn/tv/中國|四川衛視.png" group-title="smt中國",中國|四川衛視
+http://99.iptv543.com/smt.php?id=sichuan_twn
+#EXTINF:-1 tvg-name="中國|CGTN" tvg-logo="https://live.fanmingming.cn/tv/中國|CGTN.png" group-title="smt中國",中國|CGTN
+http://99.iptv543.com/smt.php?id=CGTN
+#EXTINF:-1 tvg-name="香港|鳳凰中文" tvg-logo="https://live.fanmingming.cn/tv/香港|鳳凰中文.png" group-title="smt香港",香港|鳳凰中文
+http://99.iptv543.com/smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="香港|鳳凰資訊" tvg-logo="https://live.fanmingming.cn/tv/香港|鳳凰資訊.png" group-title="smt香港",香港|鳳凰資訊
+http://99.iptv543.com/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="香港|鳳凰香港" tvg-logo="https://live.fanmingming.cn/tv/香港|鳳凰香港.png" group-title="smt香港",香港|鳳凰香港
+http://99.iptv543.com/smt.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="香港|翡翠台" tvg-logo="https://live.fanmingming.cn/tv/香港|翡翠台.png" group-title="smt香港",香港|翡翠台
+http://99.iptv543.com/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="香港|翡翠台" tvg-logo="https://live.fanmingming.cn/tv/香港|翡翠台.png" group-title="smt香港",香港|翡翠台
+http://99.iptv543.com/smt.php?id=Jade_xue
+#EXTINF:-1 tvg-name="香港|明珠台" tvg-logo="https://live.fanmingming.cn/tv/香港|明珠台.png" group-title="smt香港",香港|明珠台
+http://99.iptv543.com/smt.php?id=pearl_twn
+#EXTINF:-1 tvg-name="香港|無線新聞" tvg-logo="https://live.fanmingming.cn/tv/香港|無線新聞.png" group-title="smt香港",香港|無線新聞
+http://99.iptv543.com/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="香港|TVBPLUS" tvg-logo="https://live.fanmingming.cn/tv/香港|TVBPLUS.png" group-title="smt香港",香港|TVBPLUS
+http://99.iptv543.com/smt.php?id=j2_twn
+#EXTINF:-1 tvg-name="香港|ViuTV" tvg-logo="https://live.fanmingming.cn/tv/香港|ViuTV.png" group-title="smt香港",香港|ViuTV
+http://99.iptv543.com/smt.php?id=viu1_twn
+#EXTINF:-1 tvg-name="香港|ViuTV 6" tvg-logo="https://live.fanmingming.cn/tv/香港|ViuTV 6.png" group-title="smt香港",香港|ViuTV 6
+http://99.iptv543.com/smt.php?id=viusix_twn
+#EXTINF:-1 tvg-name="香港|RTHK 31" tvg-logo="https://live.fanmingming.cn/tv/香港|RTHK 31.png" group-title="smt香港",香港|RTHK 31
+http://99.iptv543.com/smt.php?id=rhk31_twn
+#EXTINF:-1 tvg-name="香港|RTHK 32" tvg-logo="https://live.fanmingming.cn/tv/香港|RTHK 32.png" group-title="smt香港",香港|RTHK 32
+http://99.iptv543.com/smt.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="香港|HOY TV" tvg-logo="https://live.fanmingming.cn/tv/香港|HOY TV.png" group-title="smt香港",香港|HOY TV
+http://99.iptv543.com/smt.php?id=hoycaijing_twn
+#EXTINF:-1 tvg-name="臺灣|台視 HD" tvg-logo="https://live.fanmingming.cn/tv/臺灣|台視 HD.png" group-title="smt臺灣",臺灣|台視 HD
+http://99.iptv543.com/smt.php?id=ttv_taiwan
+#EXTINF:-1 tvg-name="臺灣|台視新聞" tvg-logo="https://live.fanmingming.cn/tv/臺灣|台視新聞.png" group-title="smt臺灣",臺灣|台視新聞
+http://99.iptv543.com/smt.php?id=ttvnews_twn
+#EXTINF:-1 tvg-name="臺灣|台視綜合" tvg-logo="https://live.fanmingming.cn/tv/臺灣|台視綜合.png" group-title="smt臺灣",臺灣|台視綜合
+http://99.iptv543.com/smt.php?id=ttvzhonghe
+#EXTINF:-1 tvg-name="臺灣|中視 HD" tvg-logo="https://live.fanmingming.cn/tv/臺灣|中視 HD.png" group-title="smt臺灣",臺灣|中視 HD
+http://99.iptv543.com/smt.php?id=zhongshihd_twn
+#EXTINF:-1 tvg-name="臺灣|中視新聞" tvg-logo="https://live.fanmingming.cn/tv/臺灣|中視新聞.png" group-title="smt臺灣",臺灣|中視新聞
+http://99.iptv543.com/smt.php?id=zhongshinews_twn
+#EXTINF:-1 tvg-name="臺灣|中視經典" tvg-logo="https://live.fanmingming.cn/tv/臺灣|中視經典.png" group-title="smt臺灣",臺灣|中視經典
+http://99.iptv543.com/smt.php?id=zhongshi_twn
+#EXTINF:-1 tvg-name="臺灣|華視 HD" tvg-logo="https://live.fanmingming.cn/tv/臺灣|華視 HD.png" group-title="smt臺灣",臺灣|華視 HD
+http://99.iptv543.com/smt.php?id=ctshd_twn
+#EXTINF:-1 tvg-name="臺灣|公視 HD" tvg-logo="https://live.fanmingming.cn/tv/臺灣|公視 HD.png" group-title="smt臺灣",臺灣|公視 HD
+http://99.iptv543.com/smt.php?id=ctv_taiwan
+#EXTINF:-1 tvg-name="臺灣|公視台語台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|公視台語台.png" group-title="smt臺灣",臺灣|公視台語台
+http://99.iptv543.com/smt.php?id=ctv2_twn
+#EXTINF:-1 tvg-name="臺灣|三立臺灣台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|三立臺灣台.png" group-title="smt臺灣",臺灣|三立臺灣台
+http://99.iptv543.com/smt.php?id=sanlitaiwan
+#EXTINF:-1 tvg-name="臺灣|三立都會台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|三立都會台.png" group-title="smt臺灣",臺灣|三立都會台
+http://99.iptv543.com/smt.php?id=sanlidouhui
+#EXTINF:-1 tvg-name="臺灣|三立綜合台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|三立綜合台.png" group-title="smt臺灣",臺灣|三立綜合台
+http://99.iptv543.com/smt.php?id=sanlizhonghe
+#EXTINF:-1 tvg-name="臺灣|三立戲劇台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|三立戲劇台.png" group-title="smt臺灣",臺灣|三立戲劇台
+http://99.iptv543.com/smt.php?id=sanlixiju_twn
+#EXTINF:-1 tvg-name="臺灣|東森新聞台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|東森新聞台.png" group-title="smt臺灣",臺灣|東森新聞台
+http://99.iptv543.com/smt.php?id=ettvnews
+#EXTINF:-1 tvg-name="臺灣|東森財經新聞台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|東森財經新聞台.png" group-title="smt臺灣",臺灣|東森財經新聞台
+http://99.iptv543.com/smt.php?id=ettvcaijing_twn
+#EXTINF:-1 tvg-name="臺灣|東森綜合台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|東森綜合台.png" group-title="smt臺灣",臺灣|東森綜合台
+http://99.iptv543.com/smt.php?id=ettvzhonghe
+#EXTINF:-1 tvg-name="臺灣|東森戲劇台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|東森戲劇台.png" group-title="smt臺灣",臺灣|東森戲劇台
+http://99.iptv543.com/smt.php?id=ettvdrama
+#EXTINF:-1 tvg-name="臺灣|東森電影台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|東森電影台.png" group-title="smt臺灣",臺灣|東森電影台
+http://99.iptv543.com/smt.php?id=ettvmovie
+#EXTINF:-1 tvg-name="臺灣|東森洋片台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|東森洋片台.png" group-title="smt臺灣",臺灣|東森洋片台
+http://99.iptv543.com/smt.php?id=ettvwestern
+#EXTINF:-1 tvg-name="臺灣|東森幼幼台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|東森幼幼台.png" group-title="smt臺灣",臺灣|東森幼幼台
+http://99.iptv543.com/smt.php?id=yoyo_twn
+#EXTINF:-1 tvg-name="臺灣|東森超視" tvg-logo="https://live.fanmingming.cn/tv/臺灣|東森超視.png" group-title="smt臺灣",臺灣|東森超視
+http://99.iptv543.com/smt.php?id=ettvsuper
+#EXTINF:-1 tvg-name="臺灣|TVBS HD" tvg-logo="https://live.fanmingming.cn/tv/臺灣|TVBS HD.png" group-title="smt臺灣",臺灣|TVBS HD
+http://99.iptv543.com/smt.php?id=tvbs
+#EXTINF:-1 tvg-name="臺灣|TVBS 新聞台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|TVBS 新聞台.png" group-title="smt臺灣",臺灣|TVBS 新聞台
+http://99.iptv543.com/smt.php?id=tvbs_n
+#EXTINF:-1 tvg-name="臺灣|TVBS 歡樂台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|TVBS 歡樂台.png" group-title="smt臺灣",臺灣|TVBS 歡樂台
+http://99.iptv543.com/smt.php?id=tvbshuanle_twn
+#EXTINF:-1 tvg-name="臺灣|民視 HD" tvg-logo="https://live.fanmingming.cn/tv/臺灣|民視 HD.png" group-title="smt臺灣",臺灣|民視 HD
+http://99.iptv543.com/smt.php?id=ftvhd_taiwan
+#EXTINF:-1 tvg-name="臺灣|民視新聞台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|民視新聞台.png" group-title="smt臺灣",臺灣|民視新聞台
+http://99.iptv543.com/smt.php?id=ftvnew_taiwan
+#EXTINF:-1 tvg-name="臺灣|民視臺灣台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|民視臺灣台.png" group-title="smt臺灣",臺灣|民視臺灣台
+http://99.iptv543.com/smt.php?id=ftvtaiwan_twn
+#EXTINF:-1 tvg-name="臺灣|中天綜合" tvg-logo="https://live.fanmingming.cn/tv/臺灣|中天綜合.png" group-title="smt臺灣",臺灣|中天綜合
+http://99.iptv543.com/smt.php?id=ctizhonghe
+#EXTINF:-1 tvg-name="臺灣|中天娛樂" tvg-logo="https://live.fanmingming.cn/tv/臺灣|中天娛樂.png" group-title="smt臺灣",臺灣|中天娛樂
+http://99.iptv543.com/smt.php?id=ctient
+#EXTINF:-1 tvg-name="臺灣|中天亞洲" tvg-logo="https://live.fanmingming.cn/tv/臺灣|中天亞洲.png" group-title="smt臺灣",臺灣|中天亞洲
+http://99.iptv543.com/smt.php?id=ctiasia_twn
+#EXTINF:-1 tvg-name="臺灣|中天新聞" tvg-logo="https://live.fanmingming.cn/tv/臺灣|中天新聞.png" group-title="smt臺灣",臺灣|中天新聞
+http://99.iptv543.com/smt.php?id=ctinews
+#EXTINF:-1 tvg-name="臺灣|寰宇新聞台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|寰宇新聞台.png" group-title="smt臺灣",臺灣|寰宇新聞台
+http://99.iptv543.com/smt.php?id=huanyuxinwen_twn
+#EXTINF:-1 tvg-name="臺灣|寰宇財經台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|寰宇財經台.png" group-title="smt臺灣",臺灣|寰宇財經台
+http://99.iptv543.com/smt.php?id=huanyutaiwan_twn
+#EXTINF:-1 tvg-name="臺灣|八大第一台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|八大第一台.png" group-title="smt臺灣",臺灣|八大第一台
+http://99.iptv543.com/smt.php?id=badafirst
+#EXTINF:-1 tvg-name="臺灣|八大綜合台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|八大綜合台.png" group-title="smt臺灣",臺灣|八大綜合台
+http://99.iptv543.com/smt.php?id=badazhonghe
+#EXTINF:-1 tvg-name="臺灣|八大戲劇台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|八大戲劇台.png" group-title="smt臺灣",臺灣|八大戲劇台
+http://99.iptv543.com/smt.php?id=badadrama
+#EXTINF:-1 tvg-name="臺灣|八大娛樂台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|八大娛樂台.png" group-title="smt臺灣",臺灣|八大娛樂台
+http://99.iptv543.com/smt.php?id=badaentertain
+#EXTINF:-1 tvg-name="臺灣|緯來體育" tvg-logo="https://live.fanmingming.cn/tv/臺灣|緯來體育.png" group-title="smt臺灣",臺灣|緯來體育
+http://99.iptv543.com/smt.php?id=videolandsport
+#EXTINF:-1 tvg-name="臺灣|緯來精彩" tvg-logo="https://live.fanmingming.cn/tv/臺灣|緯來精彩.png" group-title="smt臺灣",臺灣|緯來精彩
+http://99.iptv543.com/smt.php?id=videolandspecial_twn
+#EXTINF:-1 tvg-name="臺灣|緯來日本" tvg-logo="https://live.fanmingming.cn/tv/臺灣|緯來日本.png" group-title="smt臺灣",臺灣|緯來日本
+http://99.iptv543.com/smt.php?id=videolandjapan
+#EXTINF:-1 tvg-name="臺灣|緯來電影" tvg-logo="https://live.fanmingming.cn/tv/臺灣|緯來電影.png" group-title="smt臺灣",臺灣|緯來電影
+http://99.iptv543.com/smt.php?id=videolandmovie
+#EXTINF:-1 tvg-name="臺灣|緯來綜合" tvg-logo="https://live.fanmingming.cn/tv/臺灣|緯來綜合.png" group-title="smt臺灣",臺灣|緯來綜合
+http://99.iptv543.com/smt.php?id=videolandzonghe
+#EXTINF:-1 tvg-name="臺灣|緯來育樂" tvg-logo="https://live.fanmingming.cn/tv/臺灣|緯來育樂.png" group-title="smt臺灣",臺灣|緯來育樂
+http://99.iptv543.com/smt.php?id=videolandyule
+#EXTINF:-1 tvg-name="臺灣|愛爾達綜合台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|愛爾達綜合台.png" group-title="smt臺灣",臺灣|愛爾達綜合台
+http://99.iptv543.com/smt.php?id=eltazonghe_twn
+#EXTINF:-1 tvg-name="臺灣|愛爾達影劇台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|愛爾達影劇台.png" group-title="smt臺灣",臺灣|愛爾達影劇台
+http://99.iptv543.com/smt.php?id=eltayingju_twn
+#EXTINF:-1 tvg-name="臺灣|愛爾達體育1台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|愛爾達體育1台.png" group-title="smt臺灣",臺灣|愛爾達體育1台
+http://99.iptv543.com/smt.php?id=eltasport_twn
+#EXTINF:-1 tvg-name="臺灣|愛爾達體育2台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|愛爾達體育2台.png" group-title="smt臺灣",臺灣|愛爾達體育2台
+http://99.iptv543.com/smt.php?id=eltasport2_twn
+#EXTINF:-1 tvg-name="臺灣|愛爾達體育3台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|愛爾達體育3台.png" group-title="smt臺灣",臺灣|愛爾達體育3台
+http://99.iptv543.com/smt.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="臺灣|非凡新聞" tvg-logo="https://live.fanmingming.cn/tv/臺灣|非凡新聞.png" group-title="smt臺灣",臺灣|非凡新聞
+http://99.iptv543.com/smt.php?id=feifannews_twn
+#EXTINF:-1 tvg-name="臺灣|年代新聞" tvg-logo="https://live.fanmingming.cn/tv/臺灣|年代新聞.png" group-title="smt臺灣",臺灣|年代新聞
+http://99.iptv543.com/smt.php?id=niandainews_twn
+#EXTINF:-1 tvg-name="臺灣|龍華戲劇" tvg-logo="https://live.fanmingming.cn/tv/臺灣|龍華戲劇.png" group-title="smt臺灣",臺灣|龍華戲劇
+http://99.iptv543.com/smt.php?id=lunghuaxiju_twn
+#EXTINF:-1 tvg-name="臺灣|龍華偶像" tvg-logo="https://live.fanmingming.cn/tv/臺灣|龍華偶像.png" group-title="smt臺灣",臺灣|龍華偶像
+http://99.iptv543.com/smt.php?id=lunghuaidol_twn
+#EXTINF:-1 tvg-name="臺灣|龍華電影" tvg-logo="https://live.fanmingming.cn/tv/臺灣|龍華電影.png" group-title="smt臺灣",臺灣|龍華電影
+http://99.iptv543.com/smt.php?id=xingwei_movie
+#EXTINF:-1 tvg-name="臺灣|龍華洋片" tvg-logo="https://live.fanmingming.cn/tv/臺灣|龍華洋片.png" group-title="smt臺灣",臺灣|龍華洋片
+http://99.iptv543.com/smt.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-name="臺灣|龍華經典" tvg-logo="https://live.fanmingming.cn/tv/臺灣|龍華經典.png" group-title="smt臺灣",臺灣|龍華經典
+http://99.iptv543.com/smt.php?id=lunghuajingdian_twn
+#EXTINF:-1 tvg-name="臺灣|靖天國際" tvg-logo="https://live.fanmingming.cn/tv/臺灣|靖天國際.png" group-title="smt臺灣",臺灣|靖天國際
+http://99.iptv543.com/smt.php?id=jingtianintl_twn
+#EXTINF:-1 tvg-name="臺灣|靖天卡通" tvg-logo="https://live.fanmingming.cn/tv/臺灣|靖天卡通.png" group-title="smt臺灣",臺灣|靖天卡通
+http://99.iptv543.com/smt.php?id=jingtiancartoon_twn
+#EXTINF:-1 tvg-name="臺灣|大愛電視" tvg-logo="https://live.fanmingming.cn/tv/臺灣|大愛電視.png" group-title="smt臺灣",臺灣|大愛電視
+http://99.iptv543.com/smt.php?id=daai_twn
+#EXTINF:-1 tvg-name="臺灣|大愛二台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|大愛二台.png" group-title="smt臺灣",臺灣|大愛二台
+http://99.iptv543.com/smt.php?id=daai2_twn
+#EXTINF:-1 tvg-name="臺灣|EYE 旅遊台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|EYE 旅遊台.png" group-title="smt臺灣",臺灣|EYE 旅遊台
+http://99.iptv543.com/smt.php?id=eyetvtravel_twn
+#EXTINF:-1 tvg-name="臺灣|EYE 戲劇台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|EYE 戲劇台.png" group-title="smt臺灣",臺灣|EYE 戲劇台
+http://99.iptv543.com/smt.php?id=eyetvxiju_twn
+#EXTINF:-1 tvg-name="臺灣|亞洲美食" tvg-logo="https://live.fanmingming.cn/tv/臺灣|亞洲美食.png" group-title="smt臺灣",臺灣|亞洲美食
+http://99.iptv543.com/smt.php?id=afc_twn
+#EXTINF:-1 tvg-name="臺灣|美食星球" tvg-logo="https://live.fanmingming.cn/tv/臺灣|美食星球.png" group-title="smt臺灣",臺灣|美食星球
+http://99.iptv543.com/smt.php?id=foodplanet_twn
+#EXTINF:-1 tvg-name="臺灣|TLC旅遊生活" tvg-logo="https://live.fanmingming.cn/tv/臺灣|TLC旅遊生活.png" group-title="smt臺灣",臺灣|TLC旅遊生活
+http://99.iptv543.com/smt.php?id=tlc_twn
+#EXTINF:-1 tvg-name="臺灣|亞洲旅遊台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|亞洲旅遊台.png" group-title="smt臺灣",臺灣|亞洲旅遊台
+http://99.iptv543.com/smt.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="臺灣|Arirang" tvg-logo="https://live.fanmingming.cn/tv/臺灣|Arirang.png" group-title="smt臺灣",臺灣|Arirang
+http://99.iptv543.com/smt.php?id=arirang_twn
+#EXTINF:-1 tvg-name="臺灣|AXN Taiwan" tvg-logo="https://live.fanmingming.cn/tv/臺灣|AXN Taiwan.png" group-title="smt臺灣",臺灣|AXN Taiwan
+http://99.iptv543.com/smt.php?id=axn_twn
+#EXTINF:-1 tvg-name="臺灣|MTV Live" tvg-logo="https://live.fanmingming.cn/tv/臺灣|MTV Live.png" group-title="smt臺灣",臺灣|MTV Live
+http://99.iptv543.com/smt.php?id=mtvhd_twn
+#EXTINF:-1 tvg-name="臺灣|HBO_HD" tvg-logo="https://live.fanmingming.cn/tv/臺灣|HBO_HD.png" group-title="smt臺灣",臺灣|HBO_HD
+http://99.iptv543.com/smt.php?id=hbohd_twn
+#EXTINF:-1 tvg-name="臺灣|HBO_HITS" tvg-logo="https://live.fanmingming.cn/tv/臺灣|HBO_HITS.png" group-title="smt臺灣",臺灣|HBO_HITS
+http://99.iptv543.com/smt.php?id=hbohit_twn
+#EXTINF:-1 tvg-name="臺灣|CINEMAX" tvg-logo="https://live.fanmingming.cn/tv/臺灣|CINEMAX.png" group-title="smt臺灣",臺灣|CINEMAX
+http://99.iptv543.com/smt.php?id=cinemax_twn
+#EXTINF:-1 tvg-name="臺灣|好萊塢電影台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|好萊塢電影台.png" group-title="smt臺灣",臺灣|好萊塢電影台
+http://99.iptv543.com/smt.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-name="臺灣|衛視電影台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|衛視電影台.png" group-title="smt臺灣",臺灣|衛視電影台
+http://99.iptv543.com/smt.php?id=weishimovie_twn
+#EXTINF:-1 tvg-name="臺灣|龍祥時代" tvg-logo="https://live.fanmingming.cn/tv/臺灣|龍祥時代.png" group-title="smt臺灣",臺灣|龍祥時代
+http://99.iptv543.com/smt.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="臺灣|美亞電影" tvg-logo="https://live.fanmingming.cn/tv/臺灣|美亞電影.png" group-title="smt臺灣",臺灣|美亞電影
+http://99.iptv543.com/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="臺灣|華藝綜合" tvg-logo="https://live.fanmingming.cn/tv/臺灣|華藝綜合.png" group-title="smt臺灣",臺灣|華藝綜合
+http://99.iptv543.com/smt.php?id=weishichinese_twn
+#EXTINF:-1 tvg-name="臺灣|博斯運動一台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|博斯運動一台.png" group-title="smt臺灣",臺灣|博斯運動一台
+http://99.iptv543.com/smt.php?id=bosisport1_twn
+#EXTINF:-1 tvg-name="臺灣|博斯運動二台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|博斯運動二台.png" group-title="smt臺灣",臺灣|博斯運動二台
+http://99.iptv543.com/smt.php?id=bosisport2_twn
+#EXTINF:-1 tvg-name="臺灣|博斯高球一台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|博斯高球一台.png" group-title="smt臺灣",臺灣|博斯高球一台
+http://99.iptv543.com/smt.php?id=bosigolf1_twn
+#EXTINF:-1 tvg-name="臺灣|博斯高球二台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|博斯高球二台.png" group-title="smt臺灣",臺灣|博斯高球二台
+http://99.iptv543.com/smt.php?id=bosigolf2_twn
+#EXTINF:-1 tvg-name="臺灣|博斯網球台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|博斯網球台.png" group-title="smt臺灣",臺灣|博斯網球台
+http://99.iptv543.com/smt.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="臺灣|博斯無限台" tvg-logo="https://live.fanmingming.cn/tv/臺灣|博斯無限台.png" group-title="smt臺灣",臺灣|博斯無限台
+http://99.iptv543.com/smt.php?id=bosiunlimited_twn
+#EXTINF:-1 tvg-name="臺灣|好消息 2" tvg-logo="https://live.fanmingming.cn/tv/臺灣|好消息 2.png" group-title="smt臺灣",臺灣|好消息 2
+http://99.iptv543.com/smt.php?id=good2_twn
+#EXTINF:-1 tvg-name="新加坡|Channel 5" tvg-logo="https://live.fanmingming.cn/tv/新加坡|Channel 5.png" group-title="smt新加坡",新加坡|Channel 5
+http://99.iptv543.com/smt.php?id=Channel5HD
+#EXTINF:-1 tvg-name="新加坡|Channel 8" tvg-logo="https://live.fanmingming.cn/tv/新加坡|Channel 8.png" group-title="smt新加坡",新加坡|Channel 8
+http://99.iptv543.com/smt.php?id=Channel8HD
+#EXTINF:-1 tvg-name="新加坡|Suria" tvg-logo="https://live.fanmingming.cn/tv/新加坡|Suria.png" group-title="smt新加坡",新加坡|Suria
+http://99.iptv543.com/smt.php?id=Suria
+#EXTINF:-1 tvg-name="新加坡|Channel U" tvg-logo="https://live.fanmingming.cn/tv/新加坡|Channel U.png" group-title="smt新加坡",新加坡|Channel U
+http://99.iptv543.com/smt.php?id=ChannelU
+#EXTINF:-1 tvg-name="新加坡|Vasantham" tvg-logo="https://live.fanmingming.cn/tv/新加坡|Vasantham.png" group-title="smt新加坡",新加坡|Vasantham
+http://99.iptv543.com/smt.php?id=Vasantham
+#EXTINF:-1 tvg-name="新加坡|CNA" tvg-logo="https://live.fanmingming.cn/tv/新加坡|CNA.png" group-title="smt新加坡",新加坡|CNA
+http://99.iptv543.com/smt.php?id=cna
+#EXTINF:-1 tvg-name="新加坡|CNA backup" tvg-logo="https://live.fanmingming.cn/tv/新加坡|CNA backup.png" group-title="smt新加坡",新加坡|CNA backup
+http://99.iptv543.com/smt.php?id=cna_twn
+#EXTINF:-1 tvg-name="新加坡|MeWatch Ch 5" tvg-logo="https://live.fanmingming.cn/tv/新加坡|MeWatch Ch 5.png" group-title="smt新加坡",新加坡|MeWatch Ch 5
+http://99.iptv543.com/smt.php?id=Mewatch_ch5
+#EXTINF:-1 tvg-name="新加坡|MeWatch Ch 8" tvg-logo="https://live.fanmingming.cn/tv/新加坡|MeWatch Ch 8.png" group-title="smt新加坡",新加坡|MeWatch Ch 8
+http://99.iptv543.com/smt.php?id=Mewatch_ch8
+#EXTINF:-1 tvg-name="新加坡|MeWatch Ch U" tvg-logo="https://live.fanmingming.cn/tv/新加坡|MeWatch Ch U.png" group-title="smt新加坡",新加坡|MeWatch Ch U
+http://99.iptv543.com/smt.php?id=Mewatch_chU
+#EXTINF:-1 tvg-name="新加坡|MeWatch Suria" tvg-logo="https://live.fanmingming.cn/tv/新加坡|MeWatch Suria.png" group-title="smt新加坡",新加坡|MeWatch Suria
+http://99.iptv543.com/smt.php?id=Mewatch_Suria
+#EXTINF:-1 tvg-name="新加坡|MeWatch Vasantham" tvg-logo="https://live.fanmingming.cn/tv/新加坡|MeWatch Vasantham.png" group-title="smt新加坡",新加坡|MeWatch Vasantham
+http://99.iptv543.com/smt.php?id=Mewatch_Vasantham
+#EXTINF:-1 tvg-name="新加坡|MeWatch CNA" tvg-logo="https://live.fanmingming.cn/tv/新加坡|MeWatch CNA.png" group-title="smt新加坡",新加坡|MeWatch CNA
+http://99.iptv543.com/smt.php?id=Mewatch_cna
+#EXTINF:-1 tvg-name="馬來西亞|TV1" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TV1.png" group-title="smt馬來西亞",馬來西亞|TV1
+http://99.iptv543.com/smt.php?id=TV1
+#EXTINF:-1 tvg-name="馬來西亞|TV1 backup" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TV1 backup.png" group-title="smt馬來西亞",馬來西亞|TV1 backup
+http://99.iptv543.com/smt.php?id=TV1_backup
+#EXTINF:-1 tvg-name="馬來西亞|TV2" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TV2.png" group-title="smt馬來西亞",馬來西亞|TV2
+http://99.iptv543.com/smt.php?id=TV2
+#EXTINF:-1 tvg-name="馬來西亞|TV3" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TV3.png" group-title="smt馬來西亞",馬來西亞|TV3
+http://99.iptv543.com/smt.php?id=TV3
+#EXTINF:-1 tvg-name="馬來西亞|TV3 SD" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TV3 SD.png" group-title="smt馬來西亞",馬來西亞|TV3 SD
+http://99.iptv543.com/smt.php?id=TV3_mega
+#EXTINF:-1 tvg-name="馬來西亞|NTV7" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|NTV7.png" group-title="smt馬來西亞",馬來西亞|NTV7
+http://99.iptv543.com/smt.php?id=NTV7
+#EXTINF:-1 tvg-name="馬來西亞|TV8" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TV8.png" group-title="smt馬來西亞",馬來西亞|TV8
+http://99.iptv543.com/smt.php?id=TV8
+#EXTINF:-1 tvg-name="馬來西亞|TV9" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TV9.png" group-title="smt馬來西亞",馬來西亞|TV9
+http://99.iptv543.com/smt.php?id=TV9
+#EXTINF:-1 tvg-name="馬來西亞|Ria" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Ria.png" group-title="smt馬來西亞",馬來西亞|Ria
+http://99.iptv543.com/smt.php?id=Ria
+#EXTINF:-1 tvg-name="馬來西亞|Ria-3" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Ria-3.png" group-title="smt馬來西亞",馬來西亞|Ria-3
+http://99.iptv543.com/smt.php?id=Ria_backup
+#EXTINF:-1 tvg-name="馬來西亞|Al-Hijrah" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Al-Hijrah.png" group-title="smt馬來西亞",馬來西亞|Al-Hijrah
+http://99.iptv543.com/smt.php?id=Alhijrah
+#EXTINF:-1 tvg-name="馬來西亞|Al-Hijrah backup" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Al-Hijrah backup.png" group-title="smt馬來西亞",馬來西亞|Al-Hijrah backup
+http://99.iptv543.com/smt.php?id=Alhijrah_backup
+#EXTINF:-1 tvg-name="馬來西亞|Awani" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Awani.png" group-title="smt馬來西亞",馬來西亞|Awani
+http://99.iptv543.com/smt.php?id=Awani
+#EXTINF:-1 tvg-name="馬來西亞|Bernama" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Bernama.png" group-title="smt馬來西亞",馬來西亞|Bernama
+http://99.iptv543.com/smt.php?id=Bernama
+#EXTINF:-1 tvg-name="馬來西亞|Prima" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Prima.png" group-title="smt馬來西亞",馬來西亞|Prima
+http://99.iptv543.com/smt.php?id=Prima
+#EXTINF:-1 tvg-name="馬來西亞|Prima backup" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Prima backup.png" group-title="smt馬來西亞",馬來西亞|Prima backup
+http://99.iptv543.com/smt.php?id=AAprima1
+#EXTINF:-1 tvg-name="馬來西亞|Prima backup 2" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Prima backup 2.png" group-title="smt馬來西亞",馬來西亞|Prima backup 2
+http://99.iptv543.com/smt.php?id=AAprima
+#EXTINF:-1 tvg-name="馬來西亞|Ceria" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Ceria.png" group-title="smt馬來西亞",馬來西亞|Ceria
+http://99.iptv543.com/smt.php?id=Ceria
+#EXTINF:-1 tvg-name="馬來西亞|Astro MTV" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Astro MTV.png" group-title="smt馬來西亞",馬來西亞|Astro MTV
+http://99.iptv543.com/smt.php?id=AstroMTV
+#EXTINF:-1 tvg-name="馬來西亞|Mecca Live HD" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Mecca Live HD.png" group-title="smt馬來西亞",馬來西亞|Mecca Live HD
+http://99.iptv543.com/smt.php?id=quran_mido
+#EXTINF:-1 tvg-name="馬來西亞|Madinah HD" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Madinah HD.png" group-title="smt馬來西亞",馬來西亞|Madinah HD
+http://99.iptv543.com/smt.php?id=sunnah_mido
+#EXTINF:-1 tvg-name="馬來西亞|Oasis" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Oasis.png" group-title="smt馬來西亞",馬來西亞|Oasis
+http://99.iptv543.com/smt.php?id=Oasis
+#EXTINF:-1 tvg-name="馬來西亞|HBO HD" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|HBO HD.png" group-title="smt馬來西亞",馬來西亞|HBO HD
+http://99.iptv543.com/smt.php?id=Hbo
+#EXTINF:-1 tvg-name="馬來西亞|HBO Signature" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|HBO Signature.png" group-title="smt馬來西亞",馬來西亞|HBO Signature
+http://99.iptv543.com/smt.php?id=Hbosignature
+#EXTINF:-1 tvg-name="馬來西亞|HBO Hits" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|HBO Hits.png" group-title="smt馬來西亞",馬來西亞|HBO Hits
+http://99.iptv543.com/smt.php?id=Hbohitshd
+#EXTINF:-1 tvg-name="馬來西亞|NatGeo Wild HD" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|NatGeo Wild HD.png" group-title="smt馬來西亞",馬來西亞|NatGeo Wild HD
+http://99.iptv543.com/smt.php?id=Natgeowild
+#EXTINF:-1 tvg-name="馬來西亞|Cartoon Network" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Cartoon Network.png" group-title="smt馬來西亞",馬來西亞|Cartoon Network
+http://99.iptv543.com/smt.php?id=Cn
+#EXTINF:-1 tvg-name="馬來西亞|Nickelodeon" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Nickelodeon.png" group-title="smt馬來西亞",馬來西亞|Nickelodeon
+http://99.iptv543.com/smt.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="馬來西亞|Nick Jr" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Nick Jr.png" group-title="smt馬來西亞",馬來西亞|Nick Jr
+http://99.iptv543.com/smt.php?id=Nickjr
+#EXTINF:-1 tvg-name="馬來西亞|Dreamworks" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Dreamworks.png" group-title="smt馬來西亞",馬來西亞|Dreamworks
+http://99.iptv543.com/smt.php?id=Dreamworks
+#EXTINF:-1 tvg-name="馬來西亞|Siar" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Siar.png" group-title="smt馬來西亞",馬來西亞|Siar
+http://99.iptv543.com/smt.php?id=Siar
+#EXTINF:-1 tvg-name="馬來西亞|Citra" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Citra.png" group-title="smt馬來西亞",馬來西亞|Citra
+http://99.iptv543.com/smt.php?id=AAcitra
+#EXTINF:-1 tvg-name="馬來西亞|Citra backup" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Citra backup.png" group-title="smt馬來西亞",馬來西亞|Citra backup
+http://99.iptv543.com/smt.php?id=AAcitra1
+#EXTINF:-1 tvg-name="馬來西亞|Sensasi" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Sensasi.png" group-title="smt馬來西亞",馬來西亞|Sensasi
+http://99.iptv543.com/smt.php?id=Sensasi
+#EXTINF:-1 tvg-name="馬來西亞|Aura" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Aura.png" group-title="smt馬來西亞",馬來西亞|Aura
+http://99.iptv543.com/smt.php?id=Aura
+#EXTINF:-1 tvg-name="馬來西亞|Rania" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Rania.png" group-title="smt馬來西亞",馬來西亞|Rania
+http://99.iptv543.com/smt.php?id=Rania
+#EXTINF:-1 tvg-name="馬來西亞|KBS World" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|KBS World.png" group-title="smt馬來西亞",馬來西亞|KBS World
+http://99.iptv543.com/smt.php?id=KBS
+#EXTINF:-1 tvg-name="馬來西亞|Boo" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Boo.png" group-title="smt馬來西亞",馬來西亞|Boo
+http://99.iptv543.com/smt.php?id=Boo
+#EXTINF:-1 tvg-name="馬來西亞|Awesome TV" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Awesome TV.png" group-title="smt馬來西亞",馬來西亞|Awesome TV
+http://99.iptv543.com/smt.php?id=Dsangat
+#EXTINF:-1 tvg-name="馬來西亞|Astro Sonypix" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Astro Sonypix.png" group-title="smt馬來西亞",馬來西亞|Astro Sonypix
+http://99.iptv543.com/smt.php?id=Asonypix
+#EXTINF:-1 tvg-name="馬來西亞|Sony HD" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Sony HD.png" group-title="smt馬來西亞",馬來西亞|Sony HD
+http://99.iptv543.com/smt.php?id=SetOne
+#EXTINF:-1 tvg-name="馬來西亞|TvN" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TvN.png" group-title="smt馬來西亞",馬來西亞|TvN
+http://99.iptv543.com/smt.php?id=TVN
+#EXTINF:-1 tvg-name="馬來西亞|AEC" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|AEC.png" group-title="smt馬來西亞",馬來西亞|AEC
+http://99.iptv543.com/smt.php?id=AEC
+#EXTINF:-1 tvg-name="馬來西亞|華麗台 HD （Wah Lai Toi）" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|華麗台 HD （Wah Lai Toi）.png" group-title="smt馬來西亞",馬來西亞|華麗台 HD （Wah Lai Toi）
+http://99.iptv543.com/smt.php?id=Wlt
+#EXTINF:-1 tvg-name="馬來西亞|歡喜台 HD （Hua Hee Tai）" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|歡喜台 HD （Hua Hee Tai）.png" group-title="smt馬來西亞",馬來西亞|歡喜台 HD （Hua Hee Tai）
+http://99.iptv543.com/smt.php?id=Huahee
+#EXTINF:-1 tvg-name="馬來西亞|Astro QJ" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Astro QJ.png" group-title="smt馬來西亞",馬來西亞|Astro QJ
+http://99.iptv543.com/smt.php?id=Quanjia
+#EXTINF:-1 tvg-name="馬來西亞|TVB Jade" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TVB Jade.png" group-title="smt馬來西亞",馬來西亞|TVB Jade
+http://99.iptv543.com/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-name="馬來西亞|TVB Asia" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TVB Asia.png" group-title="smt馬來西亞",馬來西亞|TVB Asia
+http://99.iptv543.com/smt.php?id=Tvbasia
+#EXTINF:-1 tvg-name="馬來西亞|TVB Entertainment" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TVB Entertainment.png" group-title="smt馬來西亞",馬來西亞|TVB Entertainment
+http://99.iptv543.com/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="馬來西亞|TVB Classic" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TVB Classic.png" group-title="smt馬來西亞",馬來西亞|TVB Classic
+http://99.iptv543.com/smt.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="馬來西亞|AOD" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|AOD.png" group-title="smt馬來西亞",馬來西亞|AOD
+http://99.iptv543.com/smt.php?id=Aodhd
+#EXTINF:-1 tvg-name="馬來西亞|One" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|One.png" group-title="smt馬來西亞",馬來西亞|One
+http://99.iptv543.com/smt.php?id=One
+#EXTINF:-1 tvg-name="馬來西亞|TVB 星河台 Xing He" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TVB 星河台 Xing He.png" group-title="smt馬來西亞",馬來西亞|TVB 星河台 Xing He
+http://99.iptv543.com/smt.php?id=Xinhe
+#EXTINF:-1 tvg-name="馬來西亞|愛奇藝 iQiyi" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|愛奇藝 iQiyi.png" group-title="smt馬來西亞",馬來西亞|愛奇藝 iQiyi
+http://99.iptv543.com/smt.php?id=Qiyi
+#EXTINF:-1 tvg-name="馬來西亞|Animal Planet (Eng)" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Animal Planet (Eng).png" group-title="smt馬來西亞",馬來西亞|Animal Planet (Eng)
+http://99.iptv543.com/smt.php?id=AnimalPlanet
+#EXTINF:-1 tvg-name="馬來西亞|tvN Movie" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|tvN Movie.png" group-title="smt馬來西亞",馬來西亞|tvN Movie
+http://99.iptv543.com/smt.php?id=Tvnmovie
+#EXTINF:-1 tvg-name="馬來西亞|CNN backup" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|CNN backup.png" group-title="smt馬來西亞",馬來西亞|CNN backup
+http://99.iptv543.com/smt.php?id=cnn_twn
+#EXTINF:-1 tvg-name="馬來西亞|Celestial Classic" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Celestial Classic.png" group-title="smt馬來西亞",馬來西亞|Celestial Classic
+http://99.iptv543.com/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="馬來西亞|CNBC" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|CNBC.png" group-title="smt馬來西亞",馬來西亞|CNBC
+http://99.iptv543.com/smt.php?id=cnbc_twn
+#EXTINF:-1 tvg-name="馬來西亞|TLC" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|TLC.png" group-title="smt馬來西亞",馬來西亞|TLC
+http://99.iptv543.com/smt.php?id=Tlc
+#EXTINF:-1 tvg-name="馬來西亞|CNA" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|CNA.png" group-title="smt馬來西亞",馬來西亞|CNA
+http://99.iptv543.com/smt.php?id=cna
+#EXTINF:-1 tvg-name="馬來西亞|BBC World News" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|BBC World News.png" group-title="smt馬來西亞",馬來西亞|BBC World News
+http://99.iptv543.com/smt.php?id=bbcnews_twn
+#EXTINF:-1 tvg-name="馬來西亞|Foodnetwork Hd" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Foodnetwork Hd.png" group-title="smt馬來西亞",馬來西亞|Foodnetwork Hd
+http://99.iptv543.com/smt.php?id=Foodnetwork
+#EXTINF:-1 tvg-name="馬來西亞|HGTV" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|HGTV.png" group-title="smt馬來西亞",馬來西亞|HGTV
+http://99.iptv543.com/smt.php?id=HGTV
+#EXTINF:-1 tvg-name="馬來西亞|Goshop" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Goshop.png" group-title="smt馬來西亞",馬來西亞|Goshop
+http://99.iptv543.com/smt.php?id=Goshop
+#EXTINF:-1 tvg-name="馬來西亞|Celestial Movies HD" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Celestial Movies HD.png" group-title="smt馬來西亞",馬來西亞|Celestial Movies HD
+http://99.iptv543.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="馬來西亞|Axn HD" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Axn HD.png" group-title="smt馬來西亞",馬來西亞|Axn HD
+http://99.iptv543.com/smt.php?id=Axn
+#EXTINF:-1 tvg-name="馬來西亞|Paramount Network" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Paramount Network.png" group-title="smt馬來西亞",馬來西亞|Paramount Network
+http://99.iptv543.com/smt.php?id=Paramountnetwork
+#EXTINF:-1 tvg-name="馬來西亞|Astrol Kplus" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Astrol Kplus.png" group-title="smt馬來西亞",馬來西亞|Astrol Kplus
+http://99.iptv543.com/smt.php?id=Kplus
+#EXTINF:-1 tvg-name="馬來西亞|AFC 亞洲旅遊台" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|AFC 亞洲旅遊台.png" group-title="smt馬來西亞",馬來西亞|AFC 亞洲旅遊台
+http://99.iptv543.com/smt.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="馬來西亞|Rock Actions" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Rock Actions.png" group-title="smt馬來西亞",馬來西亞|Rock Actions
+http://99.iptv543.com/smt.php?id=Rockaction
+#EXTINF:-1 tvg-name="馬來西亞|Bloomberg News" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Bloomberg News.png" group-title="smt馬來西亞",馬來西亞|Bloomberg News
+http://99.iptv543.com/smt.php?id=bloomberg_twn
+#EXTINF:-1 tvg-name="馬來西亞|Al-Jazeera" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Al-Jazeera.png" group-title="smt馬來西亞",馬來西亞|Al-Jazeera
+http://99.iptv543.com/smt.php?id=aljazeera_twn
+#EXTINF:-1 tvg-name="馬來西亞|Rock Entertainment" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Rock Entertainment.png" group-title="smt馬來西亞",馬來西亞|Rock Entertainment
+http://99.iptv543.com/smt.php?id=Rockentertain
+#EXTINF:-1 tvg-name="馬來西亞|RTM Sports HD" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|RTM Sports HD.png" group-title="smt馬來西亞",馬來西亞|RTM Sports HD
+http://99.iptv543.com/smt.php?id=Rtmsport
+#EXTINF:-1 tvg-name="馬來西亞|Arena" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Arena.png" group-title="smt馬來西亞",馬來西亞|Arena
+http://99.iptv543.com/smt.php?id=Arena
+#EXTINF:-1 tvg-name="馬來西亞|Arena 2" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Arena 2.png" group-title="smt馬來西亞",馬來西亞|Arena 2
+http://99.iptv543.com/smt.php?id=Arena2
+#EXTINF:-1 tvg-name="馬來西亞|BolaArena 1" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|BolaArena 1.png" group-title="smt馬來西亞",馬來西亞|BolaArena 1
+http://99.iptv543.com/smt.php?id=Bolaarena1
+#EXTINF:-1 tvg-name="馬來西亞|BolaArena 2" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|BolaArena 2.png" group-title="smt馬來西亞",馬來西亞|BolaArena 2
+http://99.iptv543.com/smt.php?id=Bolaarena2
+#EXTINF:-1 tvg-name="馬來西亞|Astro LOL" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Astro LOL.png" group-title="smt馬來西亞",馬來西亞|Astro LOL
+http://99.iptv543.com/smt.php?id=Astro_lol
+#EXTINF:-1 tvg-name="馬來西亞|Astro Rusi" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|Astro Rusi.png" group-title="smt馬來西亞",馬來西亞|Astro Rusi
+http://99.iptv543.com/smt.php?id=Rusi
+#EXTINF:-1 tvg-name="馬來西亞|WION" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|WION.png" group-title="smt馬來西亞",馬來西亞|WION
+http://99.iptv543.com/smt.php?id=Wion
+#EXTINF:-1 tvg-name="馬來西亞|RTM Asean" tvg-logo="https://live.fanmingming.cn/tv/馬來西亞|RTM Asean.png" group-title="smt馬來西亞",馬來西亞|RTM Asean
+http://99.iptv543.com/smt.php?id=Rtmasean
+#EXTINF:-1 tvg-name="印尼|TVRI National" tvg-logo="https://live.fanmingming.cn/tv/印尼|TVRI National.png" group-title="smt印尼",印尼|TVRI National
+http://99.iptv543.com/smt.php?id=TVRI
+#EXTINF:-1 tvg-name="印尼|RCTI" tvg-logo="https://live.fanmingming.cn/tv/印尼|RCTI.png" group-title="smt印尼",印尼|RCTI
+http://99.iptv543.com/smt.php?id=Rcti
+#EXTINF:-1 tvg-name="印尼|Kompass TV" tvg-logo="https://live.fanmingming.cn/tv/印尼|Kompass TV.png" group-title="smt印尼",印尼|Kompass TV
+http://99.iptv543.com/smt.php?id=Kompass
+#EXTINF:-1 tvg-name="印尼|Berita Satu" tvg-logo="https://live.fanmingming.cn/tv/印尼|Berita Satu.png" group-title="smt印尼",印尼|Berita Satu
+http://99.iptv543.com/smt.php?id=BeritaSatu_eko
+#EXTINF:-1 tvg-name="印尼|Indosiar HD" tvg-logo="https://live.fanmingming.cn/tv/印尼|Indosiar HD.png" group-title="smt印尼",印尼|Indosiar HD
+http://99.iptv543.com/smt.php?id=Indosiar
+#EXTINF:-1 tvg-name="印尼|AnTV" tvg-logo="https://live.fanmingming.cn/tv/印尼|AnTV.png" group-title="smt印尼",印尼|AnTV
+http://99.iptv543.com/smt.php?id=Antv
+#EXTINF:-1 tvg-name="印尼|MNC TV" tvg-logo="https://live.fanmingming.cn/tv/印尼|MNC TV.png" group-title="smt印尼",印尼|MNC TV
+http://99.iptv543.com/smt.php?id=Mnctv
+#EXTINF:-1 tvg-name="印尼|Trans 7" tvg-logo="https://live.fanmingming.cn/tv/印尼|Trans 7.png" group-title="smt印尼",印尼|Trans 7
+http://99.iptv543.com/smt.php?id=Trans7_eko
+#EXTINF:-1 tvg-name="印尼|Transtv" tvg-logo="https://live.fanmingming.cn/tv/印尼|Transtv.png" group-title="smt印尼",印尼|Transtv
+http://99.iptv543.com/smt.php?id=Transtv
+#EXTINF:-1 tvg-name="印尼|JTV" tvg-logo="https://live.fanmingming.cn/tv/印尼|JTV.png" group-title="smt印尼",印尼|JTV
+http://99.iptv543.com/smt.php?id=JTV_eko
+#EXTINF:-1 tvg-name="印尼|Metro TV" tvg-logo="https://live.fanmingming.cn/tv/印尼|Metro TV.png" group-title="smt印尼",印尼|Metro TV
+http://99.iptv543.com/smt.php?id=metrotv_eko
+#EXTINF:-1 tvg-name="印尼|Cinemax" tvg-logo="https://live.fanmingming.cn/tv/印尼|Cinemax.png" group-title="smt印尼",印尼|Cinemax
+http://99.iptv543.com/smt.php?id=Cinemax
+#EXTINF:-1 tvg-name="印尼|SCTV" tvg-logo="https://live.fanmingming.cn/tv/印尼|SCTV.png" group-title="smt印尼",印尼|SCTV
+http://99.iptv543.com/smt.php?id=SCTV
+#EXTINF:-1 tvg-name="印尼|Tvone" tvg-logo="https://live.fanmingming.cn/tv/印尼|Tvone.png" group-title="smt印尼",印尼|Tvone
+http://99.iptv543.com/smt.php?id=Tvone
+#EXTINF:-1 tvg-name="印尼|TVMU" tvg-logo="https://live.fanmingming.cn/tv/印尼|TVMU.png" group-title="smt印尼",印尼|TVMU
+http://99.iptv543.com/smt.php?id=TVMU_eko
+#EXTINF:-1 tvg-name="印尼|GTV" tvg-logo="https://live.fanmingming.cn/tv/印尼|GTV.png" group-title="smt印尼",印尼|GTV
+http://99.iptv543.com/smt.php?id=Gtv
+#EXTINF:-1 tvg-name="印尼|RTV" tvg-logo="https://live.fanmingming.cn/tv/印尼|RTV.png" group-title="smt印尼",印尼|RTV
+http://99.iptv543.com/smt.php?id=Rtv
+#EXTINF:-1 tvg-name="印尼|Jak TV" tvg-logo="https://live.fanmingming.cn/tv/印尼|Jak TV.png" group-title="smt印尼",印尼|Jak TV
+http://99.iptv543.com/smt.php?id=JakTV
+#EXTINF:-1 tvg-name="印尼|iNews TV" tvg-logo="https://live.fanmingming.cn/tv/印尼|iNews TV.png" group-title="smt印尼",印尼|iNews TV
+http://99.iptv543.com/smt.php?id=Inewstv
+#EXTINF:-1 tvg-name="印尼|Daai TV" tvg-logo="https://live.fanmingming.cn/tv/印尼|Daai TV.png" group-title="smt印尼",印尼|Daai TV
+http://99.iptv543.com/smt.php?id=DaaiTV
+#EXTINF:-1 tvg-name="印尼|Net TV" tvg-logo="https://live.fanmingming.cn/tv/印尼|Net TV.png" group-title="smt印尼",印尼|Net TV
+http://99.iptv543.com/smt.php?id=NetTV
+#EXTINF:-1 tvg-name="印尼|Animax" tvg-logo="https://live.fanmingming.cn/tv/印尼|Animax.png" group-title="smt印尼",印尼|Animax
+http://99.iptv543.com/smt.php?id=Animax
+#EXTINF:-1 tvg-name="印尼|EWTN" tvg-logo="https://live.fanmingming.cn/tv/印尼|EWTN.png" group-title="smt印尼",印尼|EWTN
+http://99.iptv543.com/smt.php?id=Ewtn
+#EXTINF:-1 tvg-name="印尼|AlQuran AlKareem" tvg-logo="https://live.fanmingming.cn/tv/印尼|AlQuran AlKareem.png" group-title="smt印尼",印尼|AlQuran AlKareem
+http://99.iptv543.com/smt.php?id=AlQuran
+#EXTINF:-1 tvg-name="印尼|Tawaf TV" tvg-logo="https://live.fanmingming.cn/tv/印尼|Tawaf TV.png" group-title="smt印尼",印尼|Tawaf TV
+http://99.iptv543.com/smt.php?id=TawafTV
+#EXTINF:-1 tvg-name="印尼|Vision Prime" tvg-logo="https://live.fanmingming.cn/tv/印尼|Vision Prime.png" group-title="smt印尼",印尼|Vision Prime
+http://99.iptv543.com/smt.php?id=VisionPrime
+#EXTINF:-1 tvg-name="印尼|Muslim TV" tvg-logo="https://live.fanmingming.cn/tv/印尼|Muslim TV.png" group-title="smt印尼",印尼|Muslim TV
+http://99.iptv543.com/smt.php?id=MuslimTV
+#EXTINF:-1 tvg-name="印尼|Music TV" tvg-logo="https://live.fanmingming.cn/tv/印尼|Music TV.png" group-title="smt印尼",印尼|Music TV
+http://99.iptv543.com/smt.php?id=MusicTV
+#EXTINF:-1 tvg-name="印尼|Lifestyle&amp;Fashion" tvg-logo="https://live.fanmingming.cn/tv/印尼|Lifestyle&amp;Fashion.png" group-title="smt印尼",印尼|Lifestyle&amp;Fashion
+http://99.iptv543.com/smt.php?id=Lifestyle
+#EXTINF:-1 tvg-name="印尼|Entertain" tvg-logo="https://live.fanmingming.cn/tv/印尼|Entertain.png" group-title="smt印尼",印尼|Entertain
+http://99.iptv543.com/smt.php?id=Entertain
+#EXTINF:-1 tvg-name="印尼|Hits" tvg-logo="https://live.fanmingming.cn/tv/印尼|Hits.png" group-title="smt印尼",印尼|Hits
+http://99.iptv543.com/smt.php?id=Hits
+#EXTINF:-1 tvg-name="印尼|Warner TV" tvg-logo="https://live.fanmingming.cn/tv/印尼|Warner TV.png" group-title="smt印尼",印尼|Warner TV
+http://99.iptv543.com/smt.php?id=WarnerTV
+#EXTINF:-1 tvg-name="印尼|SCM" tvg-logo="https://live.fanmingming.cn/tv/印尼|SCM.png" group-title="smt印尼",印尼|SCM
+http://99.iptv543.com/smt.php?id=Weishimovie
+#EXTINF:-1 tvg-name="印尼|Thrill" tvg-logo="https://live.fanmingming.cn/tv/印尼|Thrill.png" group-title="smt印尼",印尼|Thrill
+http://99.iptv543.com/smt.php?id=Thrill
+#EXTINF:-1 tvg-name="印尼|Fight Sports" tvg-logo="https://live.fanmingming.cn/tv/印尼|Fight Sports.png" group-title="smt印尼",印尼|Fight Sports
+http://99.iptv543.com/smt.php?id=Fs
+#EXTINF:-1 tvg-name="印尼|Hits Movie" tvg-logo="https://live.fanmingming.cn/tv/印尼|Hits Movie.png" group-title="smt印尼",印尼|Hits Movie
+http://99.iptv543.com/smt.php?id=Hitsmovie
+#EXTINF:-1 tvg-name="印尼|One" tvg-logo="https://live.fanmingming.cn/tv/印尼|One.png" group-title="smt印尼",印尼|One
+http://99.iptv543.com/smt.php?id=One
+#EXTINF:-1 tvg-name="印尼|tvN Movie" tvg-logo="https://live.fanmingming.cn/tv/印尼|tvN Movie.png" group-title="smt印尼",印尼|tvN Movie
+http://99.iptv543.com/smt.php?id=Tvnmovie
+#EXTINF:-1 tvg-name="印尼|Celestial Movies HD" tvg-logo="https://live.fanmingming.cn/tv/印尼|Celestial Movies HD.png" group-title="smt印尼",印尼|Celestial Movies HD
+http://99.iptv543.com/smt.php?id=Celestialindo
+#EXTINF:-1 tvg-name="印尼|Rock Actions" tvg-logo="https://live.fanmingming.cn/tv/印尼|Rock Actions.png" group-title="smt印尼",印尼|Rock Actions
+http://99.iptv543.com/smt.php?id=Rockaction
+#EXTINF:-1 tvg-name="印尼|Rock Entertainment" tvg-logo="https://live.fanmingming.cn/tv/印尼|Rock Entertainment.png" group-title="smt印尼",印尼|Rock Entertainment
+http://99.iptv543.com/smt.php?id=Rockentertain
+#EXTINF:-1 tvg-name="印度|Sun TV HD" tvg-logo="https://live.fanmingming.cn/tv/印度|Sun TV HD.png" group-title="smt印度",印度|Sun TV HD
+http://99.iptv543.com/smt.php?id=Suntv
+#EXTINF:-1 tvg-name="印度|Star Vijay" tvg-logo="https://live.fanmingming.cn/tv/印度|Star Vijay.png" group-title="smt印度",印度|Star Vijay
+http://99.iptv543.com/smt.php?id=Starvijay
+#EXTINF:-1 tvg-name="印度|Colors Tamil" tvg-logo="https://live.fanmingming.cn/tv/印度|Colors Tamil.png" group-title="smt印度",印度|Colors Tamil
+http://99.iptv543.com/smt.php?id=Colorstam
+#EXTINF:-1 tvg-name="印度|Sun Music" tvg-logo="https://live.fanmingming.cn/tv/印度|Sun Music.png" group-title="smt印度",印度|Sun Music
+http://99.iptv543.com/smt.php?id=Sunmusic
+#EXTINF:-1 tvg-name="印度|Astro Sunlife" tvg-logo="https://live.fanmingming.cn/tv/印度|Astro Sunlife.png" group-title="smt印度",印度|Astro Sunlife
+http://99.iptv543.com/smt.php?id=Sunlife
+#EXTINF:-1 tvg-name="印度|Astro Vaanavil" tvg-logo="https://live.fanmingming.cn/tv/印度|Astro Vaanavil.png" group-title="smt印度",印度|Astro Vaanavil
+http://99.iptv543.com/smt.php?id=Vaanavil
+#EXTINF:-1 tvg-name="印度|Zee Tamil" tvg-logo="https://live.fanmingming.cn/tv/印度|Zee Tamil.png" group-title="smt印度",印度|Zee Tamil
+http://99.iptv543.com/smt.php?id=Zeetamil
+#EXTINF:-1 tvg-name="印度|Zee Business" tvg-logo="https://live.fanmingming.cn/tv/印度|Zee Business.png" group-title="smt印度",印度|Zee Business
+http://99.iptv543.com/smt.php?id=Zeebusiness
+#EXTINF:-1 tvg-name="印度|News 18 Tamil" tvg-logo="https://live.fanmingming.cn/tv/印度|News 18 Tamil.png" group-title="smt印度",印度|News 18 Tamil
+http://99.iptv543.com/smt.php?id=news18tamil_raj
+#EXTINF:-1 tvg-name="印度|Adithya" tvg-logo="https://live.fanmingming.cn/tv/印度|Adithya.png" group-title="smt印度",印度|Adithya
+http://99.iptv543.com/smt.php?id=Adithya
+#EXTINF:-1 tvg-name="印度|Makkal TV" tvg-logo="https://live.fanmingming.cn/tv/印度|Makkal TV.png" group-title="smt印度",印度|Makkal TV
+http://99.iptv543.com/smt.php?id=Makkaltv
+#EXTINF:-1 tvg-name="印度|Zee Action" tvg-logo="https://live.fanmingming.cn/tv/印度|Zee Action.png" group-title="smt印度",印度|Zee Action
+http://99.iptv543.com/smt.php?id=Zeeaction
+#EXTINF:-1 tvg-name="印度|Astro KTV" tvg-logo="https://live.fanmingming.cn/tv/印度|Astro KTV.png" group-title="smt印度",印度|Astro KTV
+http://99.iptv543.com/smt.php?id=Astroktv
+#EXTINF:-1 tvg-name="印度|Zee TV HD" tvg-logo="https://live.fanmingming.cn/tv/印度|Zee TV HD.png" group-title="smt印度",印度|Zee TV HD
+http://99.iptv543.com/smt.php?id=Zeetvhd
+#EXTINF:-1 tvg-name="印度|Zee Cinema HD" tvg-logo="https://live.fanmingming.cn/tv/印度|Zee Cinema HD.png" group-title="smt印度",印度|Zee Cinema HD
+http://99.iptv543.com/smt.php?id=Zeecinemahd
+#EXTINF:-1 tvg-name="印度|Color HD" tvg-logo="https://live.fanmingming.cn/tv/印度|Color HD.png" group-title="smt印度",印度|Color HD
+http://99.iptv543.com/smt.php?id=Colorhd
+#EXTINF:-1 tvg-name="印度|Starplus HD" tvg-logo="https://live.fanmingming.cn/tv/印度|Starplus HD.png" group-title="smt印度",印度|Starplus HD
+http://99.iptv543.com/smt.php?id=Starplushd
+#EXTINF:-1 tvg-name="印度|Picture HD" tvg-logo="https://live.fanmingming.cn/tv/印度|Picture HD.png" group-title="smt印度",印度|Picture HD
+http://99.iptv543.com/smt.php?id=Npicture
+#EXTINF:-1 tvg-name="印度|Zee News" tvg-logo="https://live.fanmingming.cn/tv/印度|Zee News.png" group-title="smt印度",印度|Zee News
+http://99.iptv543.com/smt.php?id=Zeenews
+#EXTINF:-1 tvg-name="印度|Asianet" tvg-logo="https://live.fanmingming.cn/tv/印度|Asianet.png" group-title="smt印度",印度|Asianet
+http://99.iptv543.com/smt.php?id=asianet_raj
+#EXTINF:-1 tvg-name="印度|Asianet News" tvg-logo="https://live.fanmingming.cn/tv/印度|Asianet News.png" group-title="smt印度",印度|Asianet News
+http://99.iptv543.com/smt.php?id=asianetnews_raj
+#EXTINF:-1 tvg-name="印度|Discovery World Tamil" tvg-logo="https://live.fanmingming.cn/tv/印度|Discovery World Tamil.png" group-title="smt印度",印度|Discovery World Tamil
+http://99.iptv543.com/smt.php?id=discoveryworldtam_raj
+#EXTINF:-1 tvg-name="印度|History Tamil" tvg-logo="https://live.fanmingming.cn/tv/印度|History Tamil.png" group-title="smt印度",印度|History Tamil
+http://99.iptv543.com/smt.php?id=historytam_raj
+#EXTINF:-1 tvg-name="印度|NatGeo Tamil" tvg-logo="https://live.fanmingming.cn/tv/印度|NatGeo Tamil.png" group-title="smt印度",印度|NatGeo Tamil
+http://99.iptv543.com/smt.php?id=natgeotamil_raj
+#EXTINF:-1 tvg-name="印度|Natgeo Wild Tamil" tvg-logo="https://live.fanmingming.cn/tv/印度|Natgeo Wild Tamil.png" group-title="smt印度",印度|Natgeo Wild Tamil
+http://99.iptv543.com/smt.php?id=natgeowildtamil_raj
+#EXTINF:-1 tvg-name="印度|Astro Sonypix" tvg-logo="https://live.fanmingming.cn/tv/印度|Astro Sonypix.png" group-title="smt印度",印度|Astro Sonypix
+http://99.iptv543.com/smt.php?id=Asonypix
+#EXTINF:-1 tvg-name="印度|Discovery Kids Tamil" tvg-logo="https://live.fanmingming.cn/tv/印度|Discovery Kids Tamil.png" group-title="smt印度",印度|Discovery Kids Tamil
+http://99.iptv543.com/smt.php?id=discoverykidtamil_raj
+#EXTINF:-1 tvg-name="印度|Discovery Tamil" tvg-logo="https://live.fanmingming.cn/tv/印度|Discovery Tamil.png" group-title="smt印度",印度|Discovery Tamil
+http://99.iptv543.com/smt.php?id=discoverytamil_raj
+#EXTINF:-1 tvg-name="印度|Sony Yay Tamil" tvg-logo="https://live.fanmingming.cn/tv/印度|Sony Yay Tamil.png" group-title="smt印度",印度|Sony Yay Tamil
+http://99.iptv543.com/smt.php?id=sonyyaytam_raj
+#EXTINF:-1 tvg-name="印度|Sun TV India" tvg-logo="https://live.fanmingming.cn/tv/印度|Sun TV India.png" group-title="smt印度",印度|Sun TV India
+http://99.iptv543.com/smt.php?id=suntv_raj
+#EXTINF:-1 tvg-name="印度|Starmaa HD" tvg-logo="https://live.fanmingming.cn/tv/印度|Starmaa HD.png" group-title="smt印度",印度|Starmaa HD
+http://99.iptv543.com/smt.php?id=starmaa_raj
+#EXTINF:-1 tvg-name="印度|Starmaa Movies HD" tvg-logo="https://live.fanmingming.cn/tv/印度|Starmaa Movies HD.png" group-title="smt印度",印度|Starmaa Movies HD
+http://99.iptv543.com/smt.php?id=starmaamovies_raj
+#EXTINF:-1 tvg-name="印度|Bollyone" tvg-logo="https://live.fanmingming.cn/tv/印度|Bollyone.png" group-title="smt印度",印度|Bollyone
+http://99.iptv543.com/smt.php?id=Bollyone
+#EXTINF:-1 tvg-name="印度|Astro Sunmusic" tvg-logo="https://live.fanmingming.cn/tv/印度|Astro Sunmusic.png" group-title="smt印度",印度|Astro Sunmusic
+http://99.iptv543.com/smt.php?id=Sunmusic
+#EXTINF:-1 tvg-name="印度|Vijay Super" tvg-logo="https://live.fanmingming.cn/tv/印度|Vijay Super.png" group-title="smt印度",印度|Vijay Super
+http://99.iptv543.com/smt.php?id=vijaysuper_raj
+#EXTINF:-1 tvg-name="印度|Vellithirai" tvg-logo="https://live.fanmingming.cn/tv/印度|Vellithirai.png" group-title="smt印度",印度|Vellithirai
+http://99.iptv543.com/smt.php?id=Vellithirai
+#EXTINF:-1 tvg-name="泰國|Channel 3 Thailand" tvg-logo="https://live.fanmingming.cn/tv/泰國|Channel 3 Thailand.png" group-title="smt泰國",泰國|Channel 3 Thailand
+http://99.iptv543.com/smt.php?id=ch3_pat
+#EXTINF:-1 tvg-name="泰國|Channel 5 Thailand" tvg-logo="https://live.fanmingming.cn/tv/泰國|Channel 5 Thailand.png" group-title="smt泰國",泰國|Channel 5 Thailand
+http://99.iptv543.com/smt.php?id=ch5_pat
+#EXTINF:-1 tvg-name="泰國|Channel 7 Thailand" tvg-logo="https://live.fanmingming.cn/tv/泰國|Channel 7 Thailand.png" group-title="smt泰國",泰國|Channel 7 Thailand
+http://99.iptv543.com/smt.php?id=ch7_pat
+#EXTINF:-1 tvg-name="泰國|MCOT HD Thailand-1" tvg-logo="https://live.fanmingming.cn/tv/泰國|MCOT HD Thailand-1.png" group-title="smt泰國",泰國|MCOT HD Thailand-1
+http://99.iptv543.com/smt.php?id=mcot_pat
+#EXTINF:-1 tvg-name="泰國|PPTV Thailand1" tvg-logo="https://live.fanmingming.cn/tv/泰國|PPTV Thailand1.png" group-title="smt泰國",泰國|PPTV Thailand1
+http://99.iptv543.com/smt.php?id=pptv_pat
+#EXTINF:-1 tvg-name="泰國|Thai Thai" tvg-logo="https://live.fanmingming.cn/tv/泰國|Thai Thai.png" group-title="smt泰國",泰國|Thai Thai
+http://99.iptv543.com/smt.php?id=thaithai_pat
+#EXTINF:-1 tvg-name="泰國|Amarin" tvg-logo="https://live.fanmingming.cn/tv/泰國|Amarin.png" group-title="smt泰國",泰國|Amarin
+http://99.iptv543.com/smt.php?id=amarin_pat
+#EXTINF:-1 tvg-name="泰國|Ch 8" tvg-logo="https://live.fanmingming.cn/tv/泰國|Ch 8.png" group-title="smt泰國",泰國|Ch 8
+http://99.iptv543.com/smt.php?id=ch8_pat
+#EXTINF:-1 tvg-name="泰國|GmmOne" tvg-logo="https://live.fanmingming.cn/tv/泰國|GmmOne.png" group-title="smt泰國",泰國|GmmOne
+http://99.iptv543.com/smt.php?id=gmmone_pat
+#EXTINF:-1 tvg-name="泰國|Mono" tvg-logo="https://live.fanmingming.cn/tv/泰國|Mono.png" group-title="smt泰國",泰國|Mono
+http://99.iptv543.com/smt.php?id=mono_pat
+#EXTINF:-1 tvg-name="泰國|Thairath" tvg-logo="https://live.fanmingming.cn/tv/泰國|Thairath.png" group-title="smt泰國",泰國|Thairath
+http://99.iptv543.com/smt.php?id=thairath_pat
+#EXTINF:-1 tvg-name="泰國|tpbs" tvg-logo="https://live.fanmingming.cn/tv/泰國|tpbs.png" group-title="smt泰國",泰國|tpbs
+http://99.iptv543.com/smt.php?id=tpbs_pat
+#EXTINF:-1 tvg-name="泰國|Workpoint" tvg-logo="https://live.fanmingming.cn/tv/泰國|Workpoint.png" group-title="smt泰國",泰國|Workpoint
+http://99.iptv543.com/smt.php?id=workpoint_pat
+#EXTINF:-1 tvg-name="泰國|Gmm Channel" tvg-logo="https://live.fanmingming.cn/tv/泰國|Gmm Channel.png" group-title="smt泰國",泰國|Gmm Channel
+http://99.iptv543.com/smt.php?id=gmmchannel_pat
+#EXTINF:-1 tvg-name="泰國|Nation" tvg-logo="https://live.fanmingming.cn/tv/泰國|Nation.png" group-title="smt泰國",泰國|Nation
+http://99.iptv543.com/smt.php?id=nation_pat
+#EXTINF:-1 tvg-name="泰國|Tnn24" tvg-logo="https://live.fanmingming.cn/tv/泰國|Tnn24.png" group-title="smt泰國",泰國|Tnn24
+http://99.iptv543.com/smt.php?id=tnn24_pat
+#EXTINF:-1 tvg-name="泰國|Nbt" tvg-logo="https://live.fanmingming.cn/tv/泰國|Nbt.png" group-title="smt泰國",泰國|Nbt
+http://99.iptv543.com/smt.php?id=nbt_pat
+#EXTINF:-1 tvg-name="泰國|New" tvg-logo="https://live.fanmingming.cn/tv/泰國|New.png" group-title="smt泰國",泰國|New
+http://99.iptv543.com/smt.php?id=new_pat
+#EXTINF:-1 tvg-name="泰國|TPTV" tvg-logo="https://live.fanmingming.cn/tv/泰國|TPTV.png" group-title="smt泰國",泰國|TPTV
+http://99.iptv543.com/smt.php?id=tptv_pat
+#EXTINF:-1 tvg-name="英國|BBC 1" tvg-logo="https://live.fanmingming.cn/tv/英國|BBC 1.png" group-title="smt英國",英國|BBC 1
+http://99.iptv543.com/smt.php?id=bbc1_antik
+#EXTINF:-1 tvg-name="英國|BBC 2" tvg-logo="https://live.fanmingming.cn/tv/英國|BBC 2.png" group-title="smt英國",英國|BBC 2
+http://99.iptv543.com/smt.php?id=bbc2_antik
+#EXTINF:-1 tvg-name="英國|CBBC" tvg-logo="https://live.fanmingming.cn/tv/英國|CBBC.png" group-title="smt英國",英國|CBBC
+http://99.iptv543.com/smt.php?id=cbbc_antik
+#EXTINF:-1 tvg-name="英國|More4" tvg-logo="https://live.fanmingming.cn/tv/英國|More4.png" group-title="smt英國",英國|More4
+http://99.iptv543.com/smt.php?id=more4_antik
+#EXTINF:-1 tvg-name="英國|Freesports" tvg-logo="https://live.fanmingming.cn/tv/英國|Freesports.png" group-title="smt英國",英國|Freesports
+http://99.iptv543.com/smt.php?id=freesports_antik
+#EXTINF:-1 tvg-name="英國|Skynews" tvg-logo="https://live.fanmingming.cn/tv/英國|Skynews.png" group-title="smt英國",英國|Skynews
+http://99.iptv543.com/smt.php?id=skynews_twn
+#EXTINF:-1 tvg-name="英國|Pick TV" tvg-logo="https://live.fanmingming.cn/tv/英國|Pick TV.png" group-title="smt英國",英國|Pick TV
+http://99.iptv543.com/smt.php?id=picktv_antik
+#EXTINF:-1 tvg-name="英國|itv 1" tvg-logo="https://live.fanmingming.cn/tv/英國|itv 1.png" group-title="smt英國",英國|itv 1
+http://99.iptv543.com/smt.php?id=itv1_antik
+#EXTINF:-1 tvg-name="英國|itv 2" tvg-logo="https://live.fanmingming.cn/tv/英國|itv 2.png" group-title="smt英國",英國|itv 2
+http://99.iptv543.com/smt.php?id=itv2_antik
+#EXTINF:-1 tvg-name="英國|Euronews" tvg-logo="https://live.fanmingming.cn/tv/英國|Euronews.png" group-title="smt英國",英國|Euronews
+http://99.iptv543.com/smt.php?id=euronews_antik
+#EXTINF:-1 tvg-name="英國|Channel 4" tvg-logo="https://live.fanmingming.cn/tv/英國|Channel 4.png" group-title="smt英國",英國|Channel 4
+http://99.iptv543.com/smt.php?id=channel4_antik
+#EXTINF:-1 tvg-name="英國|NatGeo HD" tvg-logo="https://live.fanmingming.cn/tv/英國|NatGeo HD.png" group-title="smt英國",英國|NatGeo HD
+http://99.iptv543.com/smt.php?id=Natgeo
+#EXTINF:-1 tvg-name="英國|CBeebies" tvg-logo="https://live.fanmingming.cn/tv/英國|CBeebies.png" group-title="smt英國",英國|CBeebies
+http://99.iptv543.com/smt.php?id=Cbeebies
+#EXTINF:-1 tvg-name="英國|History" tvg-logo="https://live.fanmingming.cn/tv/英國|History.png" group-title="smt英國",英國|History
+http://99.iptv543.com/smt.php?id=History
+#EXTINF:-1 tvg-name="英國|Kids TV" tvg-logo="https://live.fanmingming.cn/tv/英國|Kids TV.png" group-title="smt英國",英國|Kids TV
+http://99.iptv543.com/smt.php?id=KidsTV
+#EXTINF:-1 tvg-name="英國|France 24" tvg-logo="https://live.fanmingming.cn/tv/英國|France 24.png" group-title="smt英國",英國|France 24
+http://99.iptv543.com/smt.php?id=france24_twn
+#EXTINF:-1 tvg-name="英國|DW (Deutsch)" tvg-logo="https://live.fanmingming.cn/tv/英國|DW (Deutsch).png" group-title="smt英國",英國|DW (Deutsch)
+http://99.iptv543.com/smt.php?id=dw_twn
+#EXTINF:-1 tvg-name="英國|BBC Earth HD" tvg-logo="https://live.fanmingming.cn/tv/英國|BBC Earth HD.png" group-title="smt英國",英國|BBC Earth HD
+http://99.iptv543.com/smt.php?id=bbcearth_twn
+#EXTINF:-1 tvg-name="英國|BBC Earth Lifestyle" tvg-logo="https://live.fanmingming.cn/tv/英國|BBC Earth Lifestyle.png" group-title="smt英國",英國|BBC Earth Lifestyle
+http://99.iptv543.com/smt.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-name="英國|MTV Live" tvg-logo="https://live.fanmingming.cn/tv/英國|MTV Live.png" group-title="smt英國",英國|MTV Live
+http://99.iptv543.com/smt.php?id=mtvhd_twn
+#EXTINF:-1 tvg-name="英國|Star Movies HD" tvg-logo="https://live.fanmingming.cn/tv/英國|Star Movies HD.png" group-title="smt英國",英國|Star Movies HD
+http://99.iptv543.com/smt.php?id=starmovies_raj
+#EXTINF:-1 tvg-name="英國|NHK World" tvg-logo="https://live.fanmingming.cn/tv/英國|NHK World.png" group-title="smt英國",英國|NHK World
+http://99.iptv543.com/smt.php?id=nhkworld_japan
+#EXTINF:-1 tvg-name="英國|Warner TV" tvg-logo="https://live.fanmingming.cn/tv/英國|Warner TV.png" group-title="smt英國",英國|Warner TV
+http://99.iptv543.com/smt.php?id=WarnerTV
+#EXTINF:-1 tvg-name="英國|HBO HD" tvg-logo="https://live.fanmingming.cn/tv/英國|HBO HD.png" group-title="smt英國",英國|HBO HD
+http://99.iptv543.com/smt.php?id=Hbo
+#EXTINF:-1 tvg-name="英國|NatGeo Wild HD" tvg-logo="https://live.fanmingming.cn/tv/英國|NatGeo Wild HD.png" group-title="smt英國",英國|NatGeo Wild HD
+http://99.iptv543.com/smt.php?id=Natgeowild
+#EXTINF:-1 tvg-name="英國|Nickelodeon" tvg-logo="https://live.fanmingming.cn/tv/英國|Nickelodeon.png" group-title="smt英國",英國|Nickelodeon
+http://99.iptv543.com/smt.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="英國|Nick Jr" tvg-logo="https://live.fanmingming.cn/tv/英國|Nick Jr.png" group-title="smt英國",英國|Nick Jr
+http://99.iptv543.com/smt.php?id=Nickjr
+#EXTINF:-1 tvg-name="英國|Thrill" tvg-logo="https://live.fanmingming.cn/tv/英國|Thrill.png" group-title="smt英國",英國|Thrill
+http://99.iptv543.com/smt.php?id=Thrill
+#EXTINF:-1 tvg-name="英國|CGTN" tvg-logo="https://live.fanmingming.cn/tv/英國|CGTN.png" group-title="smt英國",英國|CGTN
+http://99.iptv543.com/smt.php?id=CGTN
+#EXTINF:-1 tvg-name="英國|Hits Movie" tvg-logo="https://live.fanmingming.cn/tv/英國|Hits Movie.png" group-title="smt英國",英國|Hits Movie
+http://99.iptv543.com/smt.php?id=Hitsmovie
+#EXTINF:-1 tvg-name="英國|Animal Planet (Eng)" tvg-logo="https://live.fanmingming.cn/tv/英國|Animal Planet (Eng).png" group-title="smt英國",英國|Animal Planet (Eng)
+http://99.iptv543.com/smt.php?id=AnimalPlanet
+#EXTINF:-1 tvg-name="英國|CNBC" tvg-logo="https://live.fanmingming.cn/tv/英國|CNBC.png" group-title="smt英國",英國|CNBC
+http://99.iptv543.com/smt.php?id=cnbc_twn
+#EXTINF:-1 tvg-name="英國|TLC" tvg-logo="https://live.fanmingming.cn/tv/英國|TLC.png" group-title="smt英國",英國|TLC
+http://99.iptv543.com/smt.php?id=Tlc
+#EXTINF:-1 tvg-name="英國|BBC World News" tvg-logo="https://live.fanmingming.cn/tv/英國|BBC World News.png" group-title="smt英國",英國|BBC World News
+http://99.iptv543.com/smt.php?id=bbcworldnews_antik
+#EXTINF:-1 tvg-name="英國|HGTV" tvg-logo="https://live.fanmingming.cn/tv/英國|HGTV.png" group-title="smt英國",英國|HGTV
+http://99.iptv543.com/smt.php?id=HGTV
+#EXTINF:-1 tvg-name="英國|Axn HD" tvg-logo="https://live.fanmingming.cn/tv/英國|Axn HD.png" group-title="smt英國",英國|Axn HD
+http://99.iptv543.com/smt.php?id=Axn
+#EXTINF:-1 tvg-name="英國|Skysports F1" tvg-logo="https://live.fanmingming.cn/tv/英國|Skysports F1.png" group-title="smt英國",英國|Skysports F1
+http://99.iptv543.com/smt.php?id=tiankongf1
+#EXTINF:-1 tvg-name="英國|Skysports Cricket" tvg-logo="https://live.fanmingming.cn/tv/英國|Skysports Cricket.png" group-title="smt英國",英國|Skysports Cricket
+http://99.iptv543.com/smt.php?id=tiankongcricket
+#EXTINF:-1 tvg-name="英國|Bloomberg News" tvg-logo="https://live.fanmingming.cn/tv/英國|Bloomberg News.png" group-title="smt英國",英國|Bloomberg News
+http://99.iptv543.com/smt.php?id=bloomberg_twn
+#EXTINF:-1 tvg-name="英國|Skysports EPL" tvg-logo="https://live.fanmingming.cn/tv/英國|Skysports EPL.png" group-title="smt英國",英國|Skysports EPL
+http://99.iptv543.com/smt.php?id=tiankongepl
+#EXTINF:-1 tvg-name="英國|Skysports Main Event" tvg-logo="https://live.fanmingming.cn/tv/英國|Skysports Main Event.png" group-title="smt英國",英國|Skysports Main Event
+http://99.iptv543.com/smt.php?id=tiankongmain
+#EXTINF:-1 tvg-name="英國|Skysports News" tvg-logo="https://live.fanmingming.cn/tv/英國|Skysports News.png" group-title="smt英國",英國|Skysports News
+http://99.iptv543.com/smt.php?id=tiankongnews
+#EXTINF:-1 tvg-name="英國|Al-Jazeera" tvg-logo="https://live.fanmingming.cn/tv/英國|Al-Jazeera.png" group-title="smt英國",英國|Al-Jazeera
+http://99.iptv543.com/smt.php?id=aljazeera_twn
+#EXTINF:-1 tvg-name="越南|ANTV" tvg-logo="https://live.fanmingming.cn/tv/越南|ANTV.png" group-title="smt越南",越南|ANTV
+http://99.iptv543.com/smt.php?id=viet_antv
+#EXTINF:-1 tvg-name="越南|VTV 1" tvg-logo="https://live.fanmingming.cn/tv/越南|VTV 1.png" group-title="smt越南",越南|VTV 1
+http://99.iptv543.com/smt.php?id=viet_vtv1
+#EXTINF:-1 tvg-name="越南|VTV 7" tvg-logo="https://live.fanmingming.cn/tv/越南|VTV 7.png" group-title="smt越南",越南|VTV 7
+http://99.iptv543.com/smt.php?id=viet_vtv7
+#EXTINF:-1 tvg-name="越南|HTV 7" tvg-logo="https://live.fanmingming.cn/tv/越南|HTV 7.png" group-title="smt越南",越南|HTV 7
+http://99.iptv543.com/smt.php?id=viet_htv7
+#EXTINF:-1 tvg-name="越南|HTV 9" tvg-logo="https://live.fanmingming.cn/tv/越南|HTV 9.png" group-title="smt越南",越南|HTV 9
+http://99.iptv543.com/smt.php?id=viet_htv9
+#EXTINF:-1 tvg-name="越南|BPTV 2" tvg-logo="https://live.fanmingming.cn/tv/越南|BPTV 2.png" group-title="smt越南",越南|BPTV 2
+http://99.iptv543.com/smt.php?id=viet_bptv2
+#EXTINF:-1 tvg-name="越南|BRT HD" tvg-logo="https://live.fanmingming.cn/tv/越南|BRT HD.png" group-title="smt越南",越南|BRT HD
+http://99.iptv543.com/smt.php?id=viet_brt
+#EXTINF:-1 tvg-name="越南|Ca Mau TV" tvg-logo="https://live.fanmingming.cn/tv/越南|Ca Mau TV.png" group-title="smt越南",越南|Ca Mau TV
+http://99.iptv543.com/smt.php?id=viet_camautv
+#EXTINF:-1 tvg-name="越南|Danang TV1 HD" tvg-logo="https://live.fanmingming.cn/tv/越南|Danang TV1 HD.png" group-title="smt越南",越南|Danang TV1 HD
+http://99.iptv543.com/smt.php?id=viet_danangtv1
+#EXTINF:-1 tvg-name="越南|Danang TV2 HD" tvg-logo="https://live.fanmingming.cn/tv/越南|Danang TV2 HD.png" group-title="smt越南",越南|Danang TV2 HD
+http://99.iptv543.com/smt.php?id=viet_danangtv2
+#EXTINF:-1 tvg-name="越南|HBTV HD" tvg-logo="https://live.fanmingming.cn/tv/越南|HBTV HD.png" group-title="smt越南",越南|HBTV HD
+http://99.iptv543.com/smt.php?id=viet_hbtv
+#EXTINF:-1 tvg-name="越南|PTTH 1" tvg-logo="https://live.fanmingming.cn/tv/越南|PTTH 1.png" group-title="smt越南",越南|PTTH 1
+http://99.iptv543.com/smt.php?id=viet_ptth1
+#EXTINF:-1 tvg-name="韓國|Arirang HD" tvg-logo="https://live.fanmingming.cn/tv/韓國|Arirang HD.png" group-title="smt韓國",韓國|Arirang HD
+http://99.iptv543.com/smt.php?id=arirang_korea
+#EXTINF:-1 tvg-name="韓國|Yonhap News" tvg-logo="https://live.fanmingming.cn/tv/韓國|Yonhap News.png" group-title="smt韓國",韓國|Yonhap News
+http://99.iptv543.com/smt.php?id=yonhapnews_korea
+#EXTINF:-1 tvg-name="韓國|CBS" tvg-logo="https://live.fanmingming.cn/tv/韓國|CBS.png" group-title="smt韓國",韓國|CBS
+http://99.iptv543.com/smt.php?id=cbs_korea
+#EXTINF:-1 tvg-name="韓國|EBS 1" tvg-logo="https://live.fanmingming.cn/tv/韓國|EBS 1.png" group-title="smt韓國",韓國|EBS 1
+http://99.iptv543.com/smt.php?id=ebs1_korea
+#EXTINF:-1 tvg-name="韓國|EBS2" tvg-logo="https://live.fanmingming.cn/tv/韓國|EBS2.png" group-title="smt韓國",韓國|EBS2
+http://99.iptv543.com/smt.php?id=ebs2_korea
+#EXTINF:-1 tvg-name="韓國|EBS Plus2" tvg-logo="https://live.fanmingming.cn/tv/韓國|EBS Plus2.png" group-title="smt韓國",韓國|EBS Plus2
+http://99.iptv543.com/smt.php?id=ebsplus2_korea
+#EXTINF:-1 tvg-name="韓國|SBS Plus" tvg-logo="https://live.fanmingming.cn/tv/韓國|SBS Plus.png" group-title="smt韓國",韓國|SBS Plus
+http://99.iptv543.com/smt.php?id=sbsplus_korea
+#EXTINF:-1 tvg-name="韓國|YTN" tvg-logo="https://live.fanmingming.cn/tv/韓國|YTN.png" group-title="smt韓國",韓國|YTN
+http://99.iptv543.com/smt.php?id=ytn_korea
+#EXTINF:-1 tvg-name="韓國|KBS World 24" tvg-logo="https://live.fanmingming.cn/tv/韓國|KBS World 24.png" group-title="smt韓國",韓國|KBS World 24
+http://99.iptv543.com/smt.php?id=kbsworld24_korea
+#EXTINF:-1 tvg-name="韓國|YTN Science" tvg-logo="https://live.fanmingming.cn/tv/韓國|YTN Science.png" group-title="smt韓國",韓國|YTN Science
+http://99.iptv543.com/smt.php?id=ytnscience_korea
+#EXTINF:-1 tvg-name="韓國|YTN Korean" tvg-logo="https://live.fanmingming.cn/tv/韓國|YTN Korean.png" group-title="smt韓國",韓國|YTN Korean
+http://99.iptv543.com/smt.php?id=ytnkorean_korea
+#EXTINF:-1 tvg-name="韓國|YTN DMB" tvg-logo="https://live.fanmingming.cn/tv/韓國|YTN DMB.png" group-title="smt韓國",韓國|YTN DMB
+http://99.iptv543.com/smt.php?id=ytndmb_korea
+#EXTINF:-1 tvg-name="韓國|Apps TV" tvg-logo="https://live.fanmingming.cn/tv/韓國|Apps TV.png" group-title="smt韓國",韓國|Apps TV
+http://99.iptv543.com/smt.php?id=appongoogle_korea
+#EXTINF:-1 tvg-name="韓國|All the Kpop" tvg-logo="https://live.fanmingming.cn/tv/韓國|All the Kpop.png" group-title="smt韓國",韓國|All the Kpop
+http://99.iptv543.com/smt.php?id=allthekpop_korea
+#EXTINF:-1 tvg-name="韓國|J the Kpop" tvg-logo="https://live.fanmingming.cn/tv/韓國|J the Kpop.png" group-title="smt韓國",韓國|J the Kpop
+http://99.iptv543.com/smt.php?id=jthekpop_korea
+#EXTINF:-1 tvg-name="韓國|EBS Kids" tvg-logo="https://live.fanmingming.cn/tv/韓國|EBS Kids.png" group-title="smt韓國",韓國|EBS Kids
+http://99.iptv543.com/smt.php?id=ebskids_korea
+#EXTINF:-1 tvg-name="韓國|CGNTV" tvg-logo="https://live.fanmingming.cn/tv/韓國|CGNTV.png" group-title="smt韓國",韓國|CGNTV
+http://99.iptv543.com/smt.php?id=cgntv_korea
+#EXTINF:-1 tvg-name="日本|NHK-?合-2" tvg-logo="https://live.fanmingming.cn/tv/日本|NHK-?合-2.png" group-title="smt日本",日本|NHK-?合-2
+http://99.iptv543.com/smt.php?id=nhkg_japan
+#EXTINF:-1 tvg-name="日本|NHK-E" tvg-logo="https://live.fanmingming.cn/tv/日本|NHK-E.png" group-title="smt日本",日本|NHK-E
+http://99.iptv543.com/smt.php?id=nhke_japan
+#EXTINF:-1 tvg-name="日本|???朝日 Asahi TV" tvg-logo="https://live.fanmingming.cn/tv/日本|???朝日 Asahi TV.png" group-title="smt日本",日本|???朝日 Asahi TV
+http://99.iptv543.com/smt.php?id=asahitv_japan
+#EXTINF:-1 tvg-name="日本|JET 綜合" tvg-logo="https://live.fanmingming.cn/tv/日本|JET 綜合.png" group-title="smt日本",日本|JET 綜合
+http://99.iptv543.com/smt.php?id=jettv_japan
+#EXTINF:-1 tvg-name="日本|???東京 Tokyo TV" tvg-logo="https://live.fanmingming.cn/tv/日本|???東京 Tokyo TV.png" group-title="smt日本",日本|???東京 Tokyo TV
+http://99.iptv543.com/smt.php?id=tokyotv_japan
+#EXTINF:-1 tvg-name="日本|TOKYOMX" tvg-logo="https://live.fanmingming.cn/tv/日本|TOKYOMX.png" group-title="smt日本",日本|TOKYOMX
+http://99.iptv543.com/smt.php?id=tokyomx_japan
+#EXTINF:-1 tvg-name="日本|NHKBS1" tvg-logo="https://live.fanmingming.cn/tv/日本|NHKBS1.png" group-title="smt日本",日本|NHKBS1
+http://99.iptv543.com/smt.php?id=nhkbs1_japan
+#EXTINF:-1 tvg-name="日本|NHKBS???? Premium" tvg-logo="https://live.fanmingming.cn/tv/日本|NHKBS???? Premium.png" group-title="smt日本",日本|NHKBS???? Premium
+http://99.iptv543.com/smt.php?id=nhkpremium_japan
+#EXTINF:-1 tvg-name="日本|BS???? 181" tvg-logo="https://live.fanmingming.cn/tv/日本|BS???? 181.png" group-title="smt日本",日本|BS???? 181
+http://99.iptv543.com/smt.php?id=bs181_japan
+#EXTINF:-1 tvg-name="日本|BS?? BS Fuji" tvg-logo="https://live.fanmingming.cn/tv/日本|BS?? BS Fuji.png" group-title="smt日本",日本|BS?? BS Fuji
+http://99.iptv543.com/smt.php?id=bsfuji_japan
+#EXTINF:-1 tvg-name="日本|CNA Japan" tvg-logo="https://live.fanmingming.cn/tv/日本|CNA Japan.png" group-title="smt日本",日本|CNA Japan
+http://99.iptv543.com/smt.php?id=cna_japan
+#EXTINF:-1 tvg-name="日本|BS-TBS" tvg-logo="https://live.fanmingming.cn/tv/日本|BS-TBS.png" group-title="smt日本",日本|BS-TBS
+http://99.iptv543.com/smt.php?id=bstbs_japan
+#EXTINF:-1 tvg-name="日本|NHK Oaska" tvg-logo="https://live.fanmingming.cn/tv/日本|NHK Oaska.png" group-title="smt日本",日本|NHK Oaska
+http://99.iptv543.com/smt.php?id=nhkosaka_japan
+#EXTINF:-1 tvg-name="日本|NHK World" tvg-logo="https://live.fanmingming.cn/tv/日本|NHK World.png" group-title="smt日本",日本|NHK World
+http://99.iptv543.com/smt.php?id=nhkworld_japan
+#EXTINF:-1 tvg-name="電影頻道|CCTV6" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|CCTV6.png" group-title="smt電影頻道",電影頻道|CCTV-6
+http://99.iptv543.com/smt.php?id=cctv6
+#EXTINF:-1 tvg-name="電影頻道|AXN Taiwan" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|AXN Taiwan.png" group-title="smt電影頻道",電影頻道|AXN Taiwan
+http://99.iptv543.com/smt.php?id=axn_twn
+#EXTINF:-1 tvg-name="電影頻道|HBO_HD" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|HBO_HD.png" group-title="smt電影頻道",電影頻道|HBO_HD
+http://99.iptv543.com/smt.php?id=hbohd_twn
+#EXTINF:-1 tvg-name="電影頻道|HBO_HITS" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|HBO_HITS.png" group-title="smt電影頻道",電影頻道|HBO_HITS
+http://99.iptv543.com/smt.php?id=hbohit_twn
+#EXTINF:-1 tvg-name="電影頻道|CINEMAX" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|CINEMAX.png" group-title="smt電影頻道",電影頻道|CINEMAX
+http://99.iptv543.com/smt.php?id=cinemax_twn
+#EXTINF:-1 tvg-name="電影頻道|好萊塢電影台" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|好萊塢電影台.png" group-title="smt電影頻道",電影頻道|好萊塢電影台
+http://99.iptv543.com/smt.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-name="電影頻道|東森電影" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|東森電影.png" group-title="smt電影頻道",電影頻道|東森電影
+http://99.iptv543.com/smt.php?id=ettvmovie
+#EXTINF:-1 tvg-name="電影頻道|東森洋片" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|東森洋片.png" group-title="smt電影頻道",電影頻道|東森洋片
+http://99.iptv543.com/smt.php?id=ettvwestern
+#EXTINF:-1 tvg-name="電影頻道|龍華電影" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|龍華電影.png" group-title="smt電影頻道",電影頻道|龍華電影
+http://99.iptv543.com/smt.php?id=xingwei_movie
+#EXTINF:-1 tvg-name="電影頻道|龍華洋片" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|龍華洋片.png" group-title="smt電影頻道",電影頻道|龍華洋片
+http://99.iptv543.com/smt.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-name="電影頻道|龍祥時代" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|龍祥時代.png" group-title="smt電影頻道",電影頻道|龍祥時代
+http://99.iptv543.com/smt.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="電影頻道|美亞電影" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|美亞電影.png" group-title="smt電影頻道",電影頻道|美亞電影
+http://99.iptv543.com/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="電影頻道|衛視電影台" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|衛視電影台.png" group-title="smt電影頻道",電影頻道|衛視電影台
+http://99.iptv543.com/smt.php?id=weishimovie_twn
+#EXTINF:-1 tvg-name="電影頻道|天映頻道" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|天映頻道.png" group-title="smt電影頻道",電影頻道|天映頻道
+http://99.iptv543.com/smt.php?id=Celestial
+#EXTINF:-1 tvg-name="電影頻道|天映頻道" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|天映頻道.png" group-title="smt電影頻道",電影頻道|天映頻道
+http://99.iptv543.com/smt.php?id=Celestialindo
+#EXTINF:-1 tvg-name="電影頻道|天映經典" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|天映經典.png" group-title="smt電影頻道",電影頻道|天映經典
+http://99.iptv543.com/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="電影頻道|Animax" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Animax.png" group-title="smt電影頻道",電影頻道|Animax
+http://99.iptv543.com/smt.php?id=Animax
+#EXTINF:-1 tvg-name="電影頻道|Movies Now HD" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Movies Now HD.png" group-title="smt電影頻道",電影頻道|Movies Now HD
+http://99.iptv543.com/smt.php?id=moviesnow_raj
+#EXTINF:-1 tvg-name="電影頻道|Star Movies HD" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Star Movies HD.png" group-title="smt電影頻道",電影頻道|Star Movies HD
+http://99.iptv543.com/smt.php?id=starmovies_raj
+#EXTINF:-1 tvg-name="電影頻道|Hits" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Hits.png" group-title="smt電影頻道",電影頻道|Hits
+http://99.iptv543.com/smt.php?id=Hits
+#EXTINF:-1 tvg-name="電影頻道|Warner TV" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Warner TV.png" group-title="smt電影頻道",電影頻道|Warner TV
+http://99.iptv543.com/smt.php?id=WarnerTV
+#EXTINF:-1 tvg-name="電影頻道|HBO HD" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|HBO HD.png" group-title="smt電影頻道",電影頻道|HBO HD
+http://99.iptv543.com/smt.php?id=Hbo
+#EXTINF:-1 tvg-name="電影頻道|HBO Signature" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|HBO Signature.png" group-title="smt電影頻道",電影頻道|HBO Signature
+http://99.iptv543.com/smt.php?id=Hbosignature
+#EXTINF:-1 tvg-name="電影頻道|HBO Family" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|HBO Family.png" group-title="smt電影頻道",電影頻道|HBO Family
+http://99.iptv543.com/smt.php?id=Hbofamily
+#EXTINF:-1 tvg-name="電影頻道|HBO Hits" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|HBO Hits.png" group-title="smt電影頻道",電影頻道|HBO Hits
+http://99.iptv543.com/smt.php?id=Hbohitshd
+#EXTINF:-1 tvg-name="電影頻道|Cinemax" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Cinemax.png" group-title="smt電影頻道",電影頻道|Cinemax
+http://99.iptv543.com/smt.php?id=Cinemax
+#EXTINF:-1 tvg-name="電影頻道|Dreamworks" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Dreamworks.png" group-title="smt電影頻道",電影頻道|Dreamworks
+http://99.iptv543.com/smt.php?id=Dreamworks
+#EXTINF:-1 tvg-name="電影頻道|SCM" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|SCM.png" group-title="smt電影頻道",電影頻道|SCM
+http://99.iptv543.com/smt.php?id=Weishimovie
+#EXTINF:-1 tvg-name="電影頻道|Thrill" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Thrill.png" group-title="smt電影頻道",電影頻道|Thrill
+http://99.iptv543.com/smt.php?id=Thrill
+#EXTINF:-1 tvg-name="電影頻道|Hits Movie" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Hits Movie.png" group-title="smt電影頻道",電影頻道|Hits Movie
+http://99.iptv543.com/smt.php?id=Hitsmovie
+#EXTINF:-1 tvg-name="電影頻道|One" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|One.png" group-title="smt電影頻道",電影頻道|One
+http://99.iptv543.com/smt.php?id=One
+#EXTINF:-1 tvg-name="電影頻道|tvN Movie" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|tvN Movie.png" group-title="smt電影頻道",電影頻道|tvN Movie
+http://99.iptv543.com/smt.php?id=Tvnmovie
+#EXTINF:-1 tvg-name="電影頻道|Axn HD" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Axn HD.png" group-title="smt電影頻道",電影頻道|Axn HD
+http://99.iptv543.com/smt.php?id=Axn
+#EXTINF:-1 tvg-name="電影頻道|Paramount Network" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Paramount Network.png" group-title="smt電影頻道",電影頻道|Paramount Network
+http://99.iptv543.com/smt.php?id=Paramountnetwork
+#EXTINF:-1 tvg-name="電影頻道|Astrol Kplus" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Astrol Kplus.png" group-title="smt電影頻道",電影頻道|Astrol Kplus
+http://99.iptv543.com/smt.php?id=Kplus
+#EXTINF:-1 tvg-name="電影頻道|Rock Actions" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Rock Actions.png" group-title="smt電影頻道",電影頻道|Rock Actions
+http://99.iptv543.com/smt.php?id=Rockaction
+#EXTINF:-1 tvg-name="電影頻道|Rock Entertainment" tvg-logo="https://live.fanmingming.cn/tv/電影頻道|Rock Entertainment.png" group-title="smt電影頻道",電影頻道|Rock Entertainment
+http://99.iptv543.com/smt.php?id=Rockentertain
+#EXTINF:-1 tvg-name="紀錄頻道|Natgeo_HD" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|Natgeo_HD.png" group-title="smt紀錄頻道",紀錄頻道|Natgeo_HD
+http://99.iptv543.com/smt.php?id=natgeohd_twn
+#EXTINF:-1 tvg-name="紀錄頻道|NatGeo_Wild HD" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|NatGeo_Wild HD.png" group-title="smt紀錄頻道",紀錄頻道|NatGeo_Wild HD
+http://99.iptv543.com/smt.php?id=natgeowild_twn
+#EXTINF:-1 tvg-name="紀錄頻道|Animal_Planet" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|Animal_Planet.png" group-title="smt紀錄頻道",紀錄頻道|Animal_Planet
+http://99.iptv543.com/smt.php?id=animalplanet_twn
+#EXTINF:-1 tvg-name="紀錄頻道|Discovery Asia" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|Discovery Asia.png" group-title="smt紀錄頻道",紀錄頻道|Discovery Asia
+http://99.iptv543.com/smt.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-name="紀錄頻道|CI" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|CI.png" group-title="smt紀錄頻道",紀錄頻道|CI
+http://99.iptv543.com/smt.php?id=ci_twn
+#EXTINF:-1 tvg-name="紀錄頻道|Asia Travel" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|Asia Travel.png" group-title="smt紀錄頻道",紀錄頻道|Asia Travel
+http://99.iptv543.com/smt.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="紀錄頻道|Discovery HD" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|Discovery HD.png" group-title="smt紀錄頻道",紀錄頻道|Discovery HD
+http://99.iptv543.com/smt.php?id=discoveryhd_twn
+#EXTINF:-1 tvg-name="紀錄頻道|亞洲美食" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|亞洲美食.png" group-title="smt紀錄頻道",紀錄頻道|亞洲美食
+http://99.iptv543.com/smt.php?id=afc_twn
+#EXTINF:-1 tvg-name="紀錄頻道|美食星球" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|美食星球.png" group-title="smt紀錄頻道",紀錄頻道|美食星球
+http://99.iptv543.com/smt.php?id=foodplanet_twn
+#EXTINF:-1 tvg-name="紀錄頻道|亞洲TLC" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|亞洲TLC.png" group-title="smt紀錄頻道",紀錄頻道|亞洲TLC
+http://99.iptv543.com/smt.php?id=tlc_twn
+#EXTINF:-1 tvg-name="紀錄頻道|NatGeo HD" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|NatGeo HD.png" group-title="smt紀錄頻道",紀錄頻道|NatGeo HD
+http://99.iptv543.com/smt.php?id=Natgeo
+#EXTINF:-1 tvg-name="紀錄頻道|Fashion TV" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|Fashion TV.png" group-title="smt紀錄頻道",紀錄頻道|Fashion TV
+http://99.iptv543.com/smt.php?id=fashiontv_twn
+#EXTINF:-1 tvg-name="紀錄頻道|History" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|History.png" group-title="smt紀錄頻道",紀錄頻道|History
+http://99.iptv543.com/smt.php?id=History
+#EXTINF:-1 tvg-name="紀錄頻道|BBC Earth HD" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|BBC Earth HD.png" group-title="smt紀錄頻道",紀錄頻道|BBC Earth HD
+http://99.iptv543.com/smt.php?id=bbcearth_twn
+#EXTINF:-1 tvg-name="紀錄頻道|BBC Earth Lifestyle" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|BBC Earth Lifestyle.png" group-title="smt紀錄頻道",紀錄頻道|BBC Earth Lifestyle
+http://99.iptv543.com/smt.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-name="紀錄頻道|MTV Live" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|MTV Live.png" group-title="smt紀錄頻道",紀錄頻道|MTV Live
+http://99.iptv543.com/smt.php?id=mtvhd_twn
+#EXTINF:-1 tvg-name="紀錄頻道|NatGeo Wild HD" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|NatGeo Wild HD.png" group-title="smt紀錄頻道",紀錄頻道|NatGeo Wild HD
+http://99.iptv543.com/smt.php?id=Natgeowild
+#EXTINF:-1 tvg-name="紀錄頻道|Animal Planet (Eng)" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|Animal Planet (Eng).png" group-title="smt紀錄頻道",紀錄頻道|Animal Planet (Eng)
+http://99.iptv543.com/smt.php?id=AnimalPlanet
+#EXTINF:-1 tvg-name="紀錄頻道|TLC" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|TLC.png" group-title="smt紀錄頻道",紀錄頻道|TLC
+http://99.iptv543.com/smt.php?id=Tlc
+#EXTINF:-1 tvg-name="紀錄頻道|Foodnetwork Hd" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|Foodnetwork Hd.png" group-title="smt紀錄頻道",紀錄頻道|Foodnetwork Hd
+http://99.iptv543.com/smt.php?id=Foodnetwork
+#EXTINF:-1 tvg-name="紀錄頻道|HGTV" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|HGTV.png" group-title="smt紀錄頻道",紀錄頻道|HGTV
+http://99.iptv543.com/smt.php?id=HGTV
+#EXTINF:-1 tvg-name="紀錄頻道|亞洲旅遊台" tvg-logo="https://live.fanmingming.cn/tv/紀錄頻道|亞洲旅遊台.png" group-title="smt紀錄頻道",紀錄頻道|亞洲旅遊台
+http://99.iptv543.com/smt.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="新聞頻道|Skynews" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|Skynews.png" group-title="smt新聞頻道",新聞頻道|Skynews
+http://99.iptv543.com/smt.php?id=skynews_twn
+#EXTINF:-1 tvg-name="新聞頻道|ABC News" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|ABC News.png" group-title="smt新聞頻道",新聞頻道|ABC News
+http://99.iptv543.com/smt.php?id=abcnews_glo
+#EXTINF:-1 tvg-name="新聞頻道|東森財經新聞" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|東森財經新聞.png" group-title="smt新聞頻道",新聞頻道|東森財經新聞
+http://99.iptv543.com/smt.php?id=ettvcaijing_twn
+#EXTINF:-1 tvg-name="新聞頻道|CBS HD" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|CBS HD.png" group-title="smt新聞頻道",新聞頻道|CBS HD
+http://99.iptv543.com/smt.php?id=cbshd_glo
+#EXTINF:-1 tvg-name="新聞頻道|CBSN HD" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|CBSN HD.png" group-title="smt新聞頻道",新聞頻道|CBSN HD
+http://99.iptv543.com/smt.php?id=cbsn_glo
+#EXTINF:-1 tvg-name="新聞頻道|France 24" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|France 24.png" group-title="smt新聞頻道",新聞頻道|France 24
+http://99.iptv543.com/smt.php?id=france24_twn
+#EXTINF:-1 tvg-name="新聞頻道|DW (Deutsch)" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|DW (Deutsch).png" group-title="smt新聞頻道",新聞頻道|DW (Deutsch)
+http://99.iptv543.com/smt.php?id=dw_twn
+#EXTINF:-1 tvg-name="新聞頻道|NHK World" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|NHK World.png" group-title="smt新聞頻道",新聞頻道|NHK World
+http://99.iptv543.com/smt.php?id=nhkworld_japan
+#EXTINF:-1 tvg-name="新聞頻道|Fox News" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|Fox News.png" group-title="smt新聞頻道",新聞頻道|Fox News
+http://99.iptv543.com/smt.php?id=foxnews_twn
+#EXTINF:-1 tvg-name="新聞頻道|CGTN" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|CGTN.png" group-title="smt新聞頻道",新聞頻道|CGTN
+http://99.iptv543.com/smt.php?id=CGTN
+#EXTINF:-1 tvg-name="新聞頻道|CNN International" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|CNN International.png" group-title="smt新聞頻道",新聞頻道|CNN International
+http://99.iptv543.com/smt.php?id=Cnn
+#EXTINF:-1 tvg-name="新聞頻道|CNN backup" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|CNN backup.png" group-title="smt新聞頻道",新聞頻道|CNN backup
+http://99.iptv543.com/smt.php?id=cnn_twn
+#EXTINF:-1 tvg-name="新聞頻道|CNBC" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|CNBC.png" group-title="smt新聞頻道",新聞頻道|CNBC
+http://99.iptv543.com/smt.php?id=cnbc_twn
+#EXTINF:-1 tvg-name="新聞頻道|CNA" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|CNA.png" group-title="smt新聞頻道",新聞頻道|CNA
+http://99.iptv543.com/smt.php?id=cna
+#EXTINF:-1 tvg-name="新聞頻道|BBC World News" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|BBC World News.png" group-title="smt新聞頻道",新聞頻道|BBC World News
+http://99.iptv543.com/smt.php?id=bbcnews_twn
+#EXTINF:-1 tvg-name="新聞頻道|BBC World News" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|BBC World News.png" group-title="smt新聞頻道",新聞頻道|BBC World News
+http://99.iptv543.com/smt.php?id=Bbcnews
+#EXTINF:-1 tvg-name="新聞頻道|Bloomberg News" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|Bloomberg News.png" group-title="smt新聞頻道",新聞頻道|Bloomberg News
+http://99.iptv543.com/smt.php?id=bloomberg_twn
+#EXTINF:-1 tvg-name="新聞頻道|Al-Jazeera" tvg-logo="https://live.fanmingming.cn/tv/新聞頻道|Al-Jazeera.png" group-title="smt新聞頻道",新聞頻道|Al-Jazeera
+http://99.iptv543.com/smt.php?id=aljazeera_twn
+#EXTINF:-1 tvg-name="兒童頻道|Baby TV Eng" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|Baby TV Eng.png" group-title="smt兒童頻道",兒童頻道|Baby TV Eng
+http://99.iptv543.com/smt.php?id=Babytv
+#EXTINF:-1 tvg-name="兒童頻道|CBeebies" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|CBeebies.png" group-title="smt兒童頻道",兒童頻道|CBeebies
+http://99.iptv543.com/smt.php?id=Cbeebies
+#EXTINF:-1 tvg-name="兒童頻道|Kids TV" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|Kids TV.png" group-title="smt兒童頻道",兒童頻道|Kids TV
+http://99.iptv543.com/smt.php?id=KidsTV
+#EXTINF:-1 tvg-name="兒童頻道|Momo TV" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|Momo TV.png" group-title="smt兒童頻道",兒童頻道|Momo TV
+http://99.iptv543.com/smt.php?id=momo1_twn
+#EXTINF:-1 tvg-name="兒童頻道|Animax" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|Animax.png" group-title="smt兒童頻道",兒童頻道|Animax
+http://99.iptv543.com/smt.php?id=Animax
+#EXTINF:-1 tvg-name="兒童頻道|Baby TV" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|Baby TV.png" group-title="smt兒童頻道",兒童頻道|Baby TV
+http://99.iptv543.com/smt.php?id=babytv_twn
+#EXTINF:-1 tvg-name="兒童頻道|MiaoMi" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|MiaoMi.png" group-title="smt兒童頻道",兒童頻道|MiaoMi
+http://99.iptv543.com/smt.php?id=MiaoMi
+#EXTINF:-1 tvg-name="兒童頻道|靖天卡通" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|靖天卡通.png" group-title="smt兒童頻道",兒童頻道|靖天卡通
+http://99.iptv543.com/smt.php?id=jingtiancartoon_twn
+#EXTINF:-1 tvg-name="兒童頻道|東森幼幼" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|東森幼幼.png" group-title="smt兒童頻道",兒童頻道|東森幼幼
+http://99.iptv543.com/smt.php?id=yoyo_twn
+#EXTINF:-1 tvg-name="兒童頻道|Cartoon Network" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|Cartoon Network.png" group-title="smt兒童頻道",兒童頻道|Cartoon Network
+http://99.iptv543.com/smt.php?id=Cn
+#EXTINF:-1 tvg-name="兒童頻道|Nickelodeon" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|Nickelodeon.png" group-title="smt兒童頻道",兒童頻道|Nickelodeon
+http://99.iptv543.com/smt.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="兒童頻道|Nick Jr" tvg-logo="https://live.fanmingming.cn/tv/兒童頻道|Nick Jr.png" group-title="smt兒童頻道",兒童頻道|Nick Jr
+http://99.iptv543.com/smt.php?id=Nickjr
+#EXTINF:-1 tvg-name="體育頻道|Astro Premier League 1" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Premier League 1.png" group-title="smt體育頻道",體育頻道|Astro Premier League 1
+http://99.iptv543.com/smt.php?id=go_assp1
+#EXTINF:-1 tvg-name="體育頻道|Astro EPL 1 backup" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro EPL 1 backup.png" group-title="smt體育頻道",體育頻道|Astro EPL 1 backup
+http://99.iptv543.com/smt.php?id=go_assp1x
+#EXTINF:-1 tvg-name="體育頻道|Astro Premier League 2" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Premier League 2.png" group-title="smt體育頻道",體育頻道|Astro Premier League 2
+http://99.iptv543.com/smt.php?id=go_assp2
+#EXTINF:-1 tvg-name="體育頻道|Astro Grandstand" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Grandstand.png" group-title="smt體育頻道",體育頻道|Astro Grandstand
+http://99.iptv543.com/smt.php?id=go_assp3
+#EXTINF:-1 tvg-name="體育頻道|Astro Football" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Football.png" group-title="smt體育頻道",體育頻道|Astro Football
+http://99.iptv543.com/smt.php?id=go_assp4
+#EXTINF:-1 tvg-name="體育頻道|Astro Sports Plus" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Sports Plus.png" group-title="smt體育頻道",體育頻道|Astro Sports Plus
+http://99.iptv543.com/smt.php?id=go_sportsplus
+#EXTINF:-1 tvg-name="體育頻道|Astro Badminton 1" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Badminton 1.png" group-title="smt體育頻道",體育頻道|Astro Badminton 1
+http://99.iptv543.com/smt.php?id=go_badminton1
+#EXTINF:-1 tvg-name="體育頻道|Astro Badminton 2" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Badminton 2.png" group-title="smt體育頻道",體育頻道|Astro Badminton 2
+http://99.iptv543.com/smt.php?id=go_badminton2
+#EXTINF:-1 tvg-name="體育頻道|Astro W-Sports" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro W-Sports.png" group-title="smt體育頻道",體育頻道|Astro W-Sports
+http://99.iptv543.com/smt.php?id=go_assp5
+#EXTINF:-1 tvg-name="體育頻道|Supersports 1" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Supersports 1.png" group-title="smt體育頻道",體育頻道|Supersports 1
+http://99.iptv543.com/smt.php?id=Assp1
+#EXTINF:-1 tvg-name="體育頻道|Supersports 2" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Supersports 2.png" group-title="smt體育頻道",體育頻道|Supersports 2
+http://99.iptv543.com/smt.php?id=Assp2
+#EXTINF:-1 tvg-name="體育頻道|Supersports 3" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Supersports 3.png" group-title="smt體育頻道",體育頻道|Supersports 3
+http://99.iptv543.com/smt.php?id=Assp3
+#EXTINF:-1 tvg-name="體育頻道|Supersports 4" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Supersports 4.png" group-title="smt體育頻道",體育頻道|Supersports 4
+http://99.iptv543.com/smt.php?id=Assp4
+#EXTINF:-1 tvg-name="體育頻道|WWE" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|WWE.png" group-title="smt體育頻道",體育頻道|WWE
+http://99.iptv543.com/smt.php?id=Wwe
+#EXTINF:-1 tvg-name="體育頻道|Fight Sports" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Fight Sports.png" group-title="smt體育頻道",體育頻道|Fight Sports
+http://99.iptv543.com/smt.php?id=Fs
+#EXTINF:-1 tvg-name="體育頻道|NBA TV" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|NBA TV.png" group-title="smt體育頻道",體育頻道|NBA TV
+http://99.iptv543.com/smt.php?id=Nba
+#EXTINF:-1 tvg-name="體育頻道|Astro Cricket" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Cricket.png" group-title="smt體育頻道",體育頻道|Astro Cricket
+http://99.iptv543.com/smt.php?id=Acricket
+#EXTINF:-1 tvg-name="體育頻道|Astro Golf" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Golf.png" group-title="smt體育頻道",體育頻道|Astro Golf
+http://99.iptv543.com/smt.php?id=Agolf
+#EXTINF:-1 tvg-name="體育頻道|Tnt Sports 1" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Tnt Sports 1.png" group-title="smt體育頻道",體育頻道|Tnt Sports 1
+http://99.iptv543.com/smt.php?id=6fac0aaead
+#EXTINF:-1 tvg-name="體育頻道|TNT Sports 2" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|TNT Sports 2.png" group-title="smt體育頻道",體育頻道|TNT Sports 2
+http://99.iptv543.com/smt.php?id=d9a76a79cc
+#EXTINF:-1 tvg-name="體育頻道|TNT Sports 3" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|TNT Sports 3.png" group-title="smt體育頻道",體育頻道|TNT Sports 3
+http://99.iptv543.com/smt.php?id=5fea4d73db
+#EXTINF:-1 tvg-name="體育頻道|TNT Sports 4" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|TNT Sports 4.png" group-title="smt體育頻道",體育頻道|TNT Sports 4
+http://99.iptv543.com/smt.php?id=tntsport4
+#EXTINF:-1 tvg-name="體育頻道|Sony Ten 1" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Sony Ten 1.png" group-title="smt體育頻道",體育頻道|Sony Ten 1
+http://99.iptv543.com/smt.php?id=ten1_raj
+#EXTINF:-1 tvg-name="體育頻道|Sony Ten 2" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Sony Ten 2.png" group-title="smt體育頻道",體育頻道|Sony Ten 2
+http://99.iptv543.com/smt.php?id=ten2_raj
+#EXTINF:-1 tvg-name="體育頻道|Sony Ten 3" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Sony Ten 3.png" group-title="smt體育頻道",體育頻道|Sony Ten 3
+http://99.iptv543.com/smt.php?id=ten3_raj
+#EXTINF:-1 tvg-name="體育頻道|SPOTV 1 HD" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|SPOTV 1 HD.png" group-title="smt體育頻道",體育頻道|SPOTV 1 HD
+http://99.iptv543.com/smt.php?id=go_spotv
+#EXTINF:-1 tvg-name="體育頻道|SPO TV 2" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|SPO TV 2.png" group-title="smt體育頻道",體育頻道|SPO TV 2
+http://99.iptv543.com/smt.php?id=go_spotv2
+#EXTINF:-1 tvg-name="體育頻道|Skysports F1" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Skysports F1.png" group-title="smt體育頻道",體育頻道|Skysports F1
+http://99.iptv543.com/smt.php?id=tiankongf1
+#EXTINF:-1 tvg-name="體育頻道|Skysports Cricket" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Skysports Cricket.png" group-title="smt體育頻道",體育頻道|Skysports Cricket
+http://99.iptv543.com/smt.php?id=tiankongcricket
+#EXTINF:-1 tvg-name="體育頻道|Skysports EPL" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Skysports EPL.png" group-title="smt體育頻道",體育頻道|Skysports EPL
+http://99.iptv543.com/smt.php?id=tiankongepl
+#EXTINF:-1 tvg-name="體育頻道|Skysports Main Event" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Skysports Main Event.png" group-title="smt體育頻道",體育頻道|Skysports Main Event
+http://99.iptv543.com/smt.php?id=tiankongmain
+#EXTINF:-1 tvg-name="體育頻道|Skysports News" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Skysports News.png" group-title="smt體育頻道",體育頻道|Skysports News
+http://99.iptv543.com/smt.php?id=tiankongnews
+#EXTINF:-1 tvg-name="體育頻道|Skysports Mix" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Skysports Mix.png" group-title="smt體育頻道",體育頻道|Skysports Mix
+http://99.iptv543.com/smt.php?id=tiankongmix
+
+#EXTINF:-1 tvg-name="體育頻道|CCTV5" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|CCTV5.png" group-title="smt體育頻道",體育頻道|CCTV-5+ 體育賽事 HD
+http://99.iptv543.com/smt.php?id=cctv5plus
+#EXTINF:-1 tvg-name="體育頻道|愛爾達體育2台" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|愛爾達體育2台.png" group-title="smt體育頻道",體育頻道|愛爾達體育2台
+http://99.iptv543.com/smt.php?id=eltasport2_twn
+#EXTINF:-1 tvg-name="體育頻道|愛爾達體育3台" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|愛爾達體育3台.png" group-title="smt體育頻道",體育頻道|愛爾達體育3台
+http://99.iptv543.com/smt.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="體育頻道|Rugby Pass TV" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Rugby Pass TV.png" group-title="smt體育頻道",體育頻道|Rugby Pass TV
+http://99.iptv543.com/smt.php?id=Rugbypasstv
+#EXTINF:-1 tvg-name="體育頻道|RTM Sports HD" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|RTM Sports HD.png" group-title="smt體育頻道",體育頻道|RTM Sports HD
+http://99.iptv543.com/smt.php?id=Rtmsport
+#EXTINF:-1 tvg-name="體育頻道|Arena" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Arena.png" group-title="smt體育頻道",體育頻道|Arena
+http://99.iptv543.com/smt.php?id=Arena
+#EXTINF:-1 tvg-name="體育頻道|Arena 2" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Arena 2.png" group-title="smt體育頻道",體育頻道|Arena 2
+http://99.iptv543.com/smt.php?id=Arena2
+#EXTINF:-1 tvg-name="體育頻道|BolaArena 1" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|BolaArena 1.png" group-title="smt體育頻道",體育頻道|BolaArena 1
+http://99.iptv543.com/smt.php?id=Bolaarena1
+#EXTINF:-1 tvg-name="體育頻道|BolaArena 2" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|BolaArena 2.png" group-title="smt體育頻道",體育頻道|BolaArena 2
+http://99.iptv543.com/smt.php?id=Bolaarena2
+#EXTINF:-1 tvg-name="體育頻道|Astro Beinsports 1" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Beinsports 1.png" group-title="smt體育頻道",體育頻道|Astro Beinsports 1
+http://99.iptv543.com/smt.php?id=Astrobein1
+#EXTINF:-1 tvg-name="體育頻道|Astro Beinsports 2" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Beinsports 2.png" group-title="smt體育頻道",體育頻道|Astro Beinsports 2
+http://99.iptv543.com/smt.php?id=Astrobein2
+#EXTINF:-1 tvg-name="體育頻道|Astro Beinsports 3" tvg-logo="https://live.fanmingming.cn/tv/體育頻道|Astro Beinsports 3.png" group-title="smt體育頻道",體育頻道|Astro Beinsports 3
+http://99.iptv543.com/smt.php?id=Astrobein3
